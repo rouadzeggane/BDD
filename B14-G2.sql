@@ -1,19 +1,19 @@
 -- ===============================================================================
--------- Université Sorbonne Paris Cité, Université Paris 13 , Institut Galiée
--------- Master 2, Informatique, Exploration Informatique des Données et Décisionnel
+-------- UniversitÃ© Sorbonne Paris CitÃ©, UniversitÃ© Paris 13 , Institut GaliÃ©e
+-------- Master 2, Informatique, Exploration Informatique des DonnÃ©es et DÃ©cisionnel
 -------- M2 EID2
 
 -- ===============================================================================
 -------- La Data ; The Data
--------- La Donnée est le monde du futur ; Les données et le monde de l'avenir
+-------- La DonnÃ©e est le monde du futur ; Les donnÃ©es et le monde de l'avenir
 -------- The Data is the world of the future ;  The Data and the future's world
 
 -------- DATA -->>> Big Data, Dark Data, Open Data, ... 
 -- ===============================================================================
--------- Bases de Données Avancées = Advanced Databases (BDA)
--------- Entrepôts de Données = Data Warehouses (DWH, EDON)
+-------- Bases de DonnÃ©es AvancÃ©es = Advanced Databases (BDA)
+-------- EntrepÃ´ts de DonnÃ©es = Data Warehouses (DWH, EDON)
 
--------- Directeur :  Dr. M. Faouzi Boufarès
+-------- Directeur :  Dr. M. Faouzi BoufarÃ¨s
 -------- Enseignant-Chercheur Responsable      
 
 -------- Page Web : http://www.lipn.univ-paris13.fr/~boufares
@@ -22,20 +22,20 @@
 
 -- ===============================================================================
 -- ===============================================================================
---   Projet  BDM : Big Data Management - Gestion des Données Massives
+--   Projet  BDM : Big Data Management - Gestion des DonnÃ©es Massives
 --
---   Data Manipulation (DI) - Manipulation de Données
---   Data Integration (DI) - Intégration de Données
---   Données structurées ; Données Semi-structurées ; Données NON structurées
+--   Data Manipulation (DI) - Manipulation de DonnÃ©es
+--   Data Integration (DI) - IntÃ©gration de DonnÃ©es
+--   DonnÃ©es structurÃ©es ; DonnÃ©es Semi-structurÃ©es ; DonnÃ©es NON structurÃ©es
 --   Structured data; Semi-structured data; NON-structured data
 
---   Master Data Management (MDM) - Gestion des Données de Référence
---   Data Quality Managment (DQM) - Gestion de la qualité des données
---   Data Cleaning - Nettayage des données
+--   Master Data Management (MDM) - Gestion des DonnÃ©es de RÃ©fÃ©rence
+--   Data Quality Managment (DQM) - Gestion de la qualitÃ© des donnÃ©es
+--   Data Cleaning - Nettayage des donnÃ©es
 --   Data deduplication - Elimination des doubles et des similaires
 
 --   More semantics to better correct the data 
---   Plus de sémantique afin de mieux corriger les données
+--   Plus de sÃ©mantique afin de mieux corriger les donnÃ©es
 -- ===============================================================================
 -- ===============================================================================
 --
@@ -43,21 +43,21 @@
 --
 -- Big Data & Clound Computing : Think DIFFERENTLY, BIGGER and SMARTER !
 -- The Excellence in Data Use !
--- EID : L'Excellence dans l'Investigation des Données
+-- EID : L'Excellence dans l'Investigation des DonnÃ©es
 -- EID : Excellence in Data Investigation
 --
 -- =============================================================================== 
 -- Think DIFFERENTLY, BIGGER and SMARTER ! The Excellence in Data Use !
 -- MISSION IMPOSSIBLE OU POSSIBLE ????? !!!!!!!!!!!
--- Votre mission, si vous l’acceptez, est : The Excellence in Data Use !
--- Si vous échouez, nous nierons avoir eu connaissance de vos agissements !
+-- Votre mission, si vous lâ€™acceptez, est : The Excellence in Data Use !
+-- Si vous Ã©chouez, nous nierons avoir eu connaissance de vos agissements !
 
 -- ===============================================================================
 -- Les dictons du jour !
 --
--- Aujourd'hui, j'arrête de fumer
+-- Aujourd'hui, j'arrÃªte de fumer
 -- Le TABAC t'ABAT
--- Fumer nuit grâvement à ta santé et à celle de ton entourage
+-- Fumer nuit grÃ¢vement Ã  ta santÃ© et Ã  celle de ton entourage
 --
 -- M   T   Dents
 -- SMILE and the World SMILES with you !
@@ -65,13 +65,13 @@
 -- MANGER + MANGER = GROSSIR (??? M, A, N, G, E, R, O, S, S, I)
 --
 -- Manger & Bouger, 
--- Pour votre santé mangez 5 fruits et légumes par jour
--- Pour votre santé ne mangez pas trop gras, trop salé, trop sucré
--- Pour votre santé faites une activité physique régulière
--- Pour votre santé faites 30 mn de marche par jour
--- Pour votre santé faites des BD !!!
+-- Pour votre santÃ© mangez 5 fruits et lÃ©gumes par jour
+-- Pour votre santÃ© ne mangez pas trop gras, trop salÃ©, trop sucrÃ©
+-- Pour votre santÃ© faites une activitÃ© physique rÃ©guliÃ¨re
+-- Pour votre santÃ© faites 30 mn de marche par jour
+-- Pour votre santÃ© faites des BD !!!
 --
--- Dr. M. Faouzi Boufarès
+-- Dr. M. Faouzi BoufarÃ¨s
 -- =============================================================================== 
 -- =============================================================================== 
 --   A new ETL   ETL & DQ : Extract-Transform-Load & Data-Quality 
@@ -84,15 +84,14 @@
 -- ===============================================================================                   
 --   Nom du SGBD/DBMS  : ORACLE  /  DB2  /  MySQL  /  ...        
 --   Date de creation  : 17/09/2018
----  Lieu              : Université Sorbonne Paris Cité, Université Paris 13, Institut Galiée
+---  Lieu              : UniversitÃ© Sorbonne Paris CitÃ©, UniversitÃ© Paris 13, Institut GaliÃ©e
 -- =============================================================================== 
 -- ===============================================================================
 -------------------- Master 2 EID2 - Promotion 2018-2019 -------------------------
 
--- Groupe de Travail N° (Binôme)  : B14
+-- Groupe de Travail NÂ° (BinÃ´me)  : B14
 
--- NOM Prénom 1                   : ZEGGANE Rouad
--- NOM Prénom 2                   : MECHAREK Thinhinane
+-- NOM PrÃ©nom 1                   : ZEGGANE Rouad
 
 -- ====>>> Vos fichiers sql devront s'appeler : B14-G2.sql
 
@@ -100,17 +99,17 @@
 -- =============================================================================== 
 -- ===============================================================================
 -- ===============================================================================
---   Problématique    :  Intégration de données hétérogènes, distribuées
+--   ProblÃ©matique    :  IntÃ©gration de donnÃ©es hÃ©tÃ©rogÃ¨nes, distribuÃ©es
 
---   Problématique    :  Traitement des anomalies éventuelles
---   Problématique    :  Plusieurs types d'anomalies INTRA-Colonne ; INTER-COLONNES ; INTER-LIGNES
+--   ProblÃ©matique    :  Traitement des anomalies Ã©ventuelles
+--   ProblÃ©matique    :  Plusieurs types d'anomalies INTRA-Colonne ; INTER-COLONNES ; INTER-LIGNES
 
---   Problématique    :  Standardisation de données hétérogènes
---   Problématique    :  Traitement des valeurs invalides syntaxiquement
---   Problématique    :  Traitement des valeurs invalides sémantiquement
---   Problématique    :  Traitement des valeurs nulles
---   Problématique    :  Traitement des redondances sémantiques (Dépendances fonctionnelles)
---   Problématique    :  Elimination des doubles et similaires
+--   ProblÃ©matique    :  Standardisation de donnÃ©es hÃ©tÃ©rogÃ¨nes
+--   ProblÃ©matique    :  Traitement des valeurs invalides syntaxiquement
+--   ProblÃ©matique    :  Traitement des valeurs invalides sÃ©mantiquement
+--   ProblÃ©matique    :  Traitement des valeurs nulles
+--   ProblÃ©matique    :  Traitement des redondances sÃ©mantiques (DÃ©pendances fonctionnelles)
+--   ProblÃ©matique    :  Elimination des doubles et similaires
 
 -- =============================================================================== 
 -- ===============================================================================
@@ -134,16 +133,16 @@ SPOOL Bxy-GCI-02.lst
 PROMPT =========================================================
 -- Nom du Cas       :  Gestion Commerciale Intelligente : GESCOMI : GCI
 -- Nom de SGBD      :  ORACLE DBMS                    
--- Date de création :  Septembre 2018
+-- Date de crÃ©ation :  Septembre 2018
 -- Auteur           :  Faouzi BOUFARES 
--- Université       :  Université Sorbonne Paris Cité, Université Paris 13 
+-- UniversitÃ©       :  UniversitÃ© Sorbonne Paris CitÃ©, UniversitÃ© Paris 13 
 -- Formation        :  Master 2 EID 2  
 PROMPT =========================================================
 PROMPT 
 PROMPT =========================================================
 PROMPT |                                                       |
 PROMPT |     Exercice 2 :  BD GESCOMI avec SQL 2               |
-PROMPT |     Enrichissement du schéma d une BD :               |
+PROMPT |     Enrichissement du schÃ©ma d une BD :               |
 PROMPT |                                                       |
 PROMPT =========================================================
 PROMPT
@@ -158,9 +157,9 @@ ALTER SESSION SET NLS_DATE_FORMAT = 'DAY DD-MONTH-YYYY' ;
 PROMPT =========================================================
 
 -- ===============================================================================
--- Définition de la structure des données ================= DEBUT    =============
+-- DÃ©finition de la structure des donnÃ©es ================= DEBUT    =============
 -- en SQL 2 ======================================================================
--- Création des tables ============= Magasin FR01 ====== PARIS   =================
+-- CrÃ©ation des tables ============= Magasin FR01 ====== PARIS   =================
 
 PROMPT Destruction des tables de la bd GESCOMI EN SQL 2
 PROMPT =========================================================
@@ -173,7 +172,7 @@ PROMPT
 Pause Tapez sur Enter...
 PROMPT
 PROMPT =========================================================
-PROMPT Création des tables de la bd GESCOMI EN SQL 2
+PROMPT CrÃ©ation des tables de la bd GESCOMI EN SQL 2
 PROMPT =========================================================
 PROMPT
 PROMPT =========================================================
@@ -263,12 +262,12 @@ PROMPT
 Pause Tapez sur Enter...
 
 -- ===============================================================================
--- Définition de la structure des données =========== FIN     ====================
+-- DÃ©finition de la structure des donnÃ©es =========== FIN     ====================
 -- en SQL 2 ======================================================================
 
--- Enrichissement des données ========================== DEBUT =========================================
--- Enrichissement des données ==========================================================================
--- Enrichissement des données ==========================================================================
+-- Enrichissement des donnÃ©es ========================== DEBUT =========================================
+-- Enrichissement des donnÃ©es ==========================================================================
+-- Enrichissement des donnÃ©es ==========================================================================
 
 PROMPT 
 PROMPT =====================================================================
@@ -280,22 +279,22 @@ PROMPT
 PROMPT
 
 /*
--- Première proposition pour les déclencheurs
+-- PremiÃ¨re proposition pour les dÃ©clencheurs
 
 PROMPT =========================================================
 PROMPT >> Requete : Trigger sur la mise a jour des prix EN SQL 2
 PROMPT =========================================================
 PROMPT
-TTITLE CENTER 'Requete: Trigger sur la mise à jour des prix' skip 1 -
+TTITLE CENTER 'Requete: Trigger sur la mise Ã  jour des prix' skip 1 -
        LEFT   '=========================================================================' skip 0
 
 PROMPT
 PROMPT =========================================================
-PROMPT Il est nécessaire de créer une table HISTORIQUE_PRIX qui permet
-PROMPT de garder le prix des articles avant leurs mises à jour.
-PROMPT C est une table qui aura comme colonne la référence, le nom, le prix
+PROMPT Il est nÃ©cessaire de crÃ©er une table HISTORIQUE_PRIX qui permet
+PROMPT de garder le prix des articles avant leurs mises Ã  jour.
+PROMPT C est une table qui aura comme colonne la rÃ©fÃ©rence, le nom, le prix
 PROMPT d achat, le prix de vente (prix catalogue) de l article avant la mise
-PROMPT à jour et la date de la mise à jour.
+PROMPT Ã  jour et la date de la mise Ã  jour.
 PROMPT =========================================================
 PROMPT
 DROP TABLE HISTORIQUE_PRIX;
@@ -315,7 +314,7 @@ pause Tapez sur Enter...
 
 PROMPT
 PROMPT =========================================================
-PROMPT Suppression et création du trigger = déclencheur.
+PROMPT Suppression et crÃ©ation du trigger = dÃ©clencheur.
 PROMPT =========================================================
 PROMPT
 DROP TRIGGER MAJ_PRIX_ARTICLES;
@@ -338,21 +337,21 @@ END;
 
 */
 
--- Deuxième proposition pour les déclencheurs
+-- DeuxiÃ¨me proposition pour les dÃ©clencheurs
 
 PROMPT
 PROMPT =========================================================
-PROMPT Il est nécessaire de créer une table qui permet
-PROMPT de garder le prix des articles avant leurs mises à jour.
-PROMPT C est une table qui aura comme colonnes la référence, le nom, le prix
+PROMPT Il est nÃ©cessaire de crÃ©er une table qui permet
+PROMPT de garder le prix des articles avant leurs mises Ã  jour.
+PROMPT C est une table qui aura comme colonnes la rÃ©fÃ©rence, le nom, le prix
 PROMPT d achat, le prix de vente (prix catalogue) de l article avant la mise
-PROMPT à jour et la date de la mise à jour.
+PROMPT Ã  jour et la date de la mise Ã  jour.
 PROMPT =========================================================
 PROMPT
 
 PROMPT
 PROMPT =====================================================================
-PROMPT Il est nécessaire de créer une table HISTORIQUE_MVTS_ARTICLES.
+PROMPT Il est nÃ©cessaire de crÃ©er une table HISTORIQUE_MVTS_ARTICLES.
 PROMPT =====================================================================
 PROMPT
 DROP TABLE HISTORIQUE_MVTS_ARTICLES;
@@ -381,7 +380,7 @@ PROMPT >> Trigger sur les mouvements des articles
 PROMPT =====================================================================
 
 PROMPT =====================================================================
-PROMPT Suppression et création du Trigger.
+PROMPT Suppression et crÃ©ation du Trigger.
 PROMPT =====================================================================
 PROMPT
 DROP TRIGGER MOUVEMENTS_ARTICLES;
@@ -422,46 +421,46 @@ END;
 
 
 
--- Enrichissement du schéma d'une BD : =====================================>>>>>>>
+-- Enrichissement du schÃ©ma d'une BD : =====================================>>>>>>>
 
--- Création des accélérateurs des traitements : Les index ==================>>>>>>>
+-- CrÃ©ation des accÃ©lÃ©rateurs des traitements : Les index ==================>>>>>>>
 
 CREATE INDEX NDEXCLI
 	ON CLIENTS
 	(NOMCLI ASC);
 
--- Création des rôles et des profils qui seront affectés aux utilisateurs ===>>>>>>
--- Partage de données
+-- CrÃ©ation des rÃ´les et des profils qui seront affectÃ©s aux utilisateurs ===>>>>>>
+-- Partage de donnÃ©es
 
 --CREATE ROLE...
 
 --CREATE PROFILE...
 
 -- COMMENT ou NO-COMMENT ? =================================================>>>>>>>
--- Commenter avec SQL (les commentaires seront stockés dans le dictionnaire du SGBD)
--- vos tables et vos colonnes : il s'agit des méta-informations (méta-données) très utiles
+-- Commenter avec SQL (les commentaires seront stockÃ©s dans le dictionnaire du SGBD)
+-- vos tables et vos colonnes : il s'agit des mÃ©ta-informations (mÃ©ta-donnÃ©es) trÃ¨s utiles
 -- pour les autres utilisateurs
 
 -- COMMENT ou NO-COMMENT ? =================================================>>>>>>>
--- Déclenchement d'actions automatiques pour garder trace de toutes les mises à jour
--- des données, grader plusieurs versions...
--- Développer le nécessaire pour tracer tous les changements effectués dans la table des Clients !
--- Ceci pourrait permettre de faire un meilleur suivi de la clientèle...
+-- DÃ©clenchement d'actions automatiques pour garder trace de toutes les mises Ã  jour
+-- des donnÃ©es, grader plusieurs versions...
+-- DÃ©velopper le nÃ©cessaire pour tracer tous les changements effectuÃ©s dans la table des Clients !
+-- Ceci pourrait permettre de faire un meilleur suivi de la clientÃ¨le...
 
 
 
 PROMPT
 PROMPT =========================================================
-PROMPT Il est nécessaire de créer une table qui permet
-PROMPT de garder toutes les données sur les clients avant leurs mises à jour.
-PROMPT C est une table qui aura comme colonnes toutes celles de départ avant la mise
-PROMPT à jour et la date de la mise à jour, l''utilisateur ayant fait la lise à jour, etc...
+PROMPT Il est nÃ©cessaire de crÃ©er une table qui permet
+PROMPT de garder toutes les donnÃ©es sur les clients avant leurs mises Ã  jour.
+PROMPT C est une table qui aura comme colonnes toutes celles de dÃ©part avant la mise
+PROMPT Ã  jour et la date de la mise Ã  jour, l''utilisateur ayant fait la lise Ã  jour, etc...
 PROMPT =========================================================
 PROMPT
 
 PROMPT
 PROMPT =====================================================================
-PROMPT Il est nécessaire de créer une table HISTORIQUE_MVTS_CLIENTS.
+PROMPT Il est nÃ©cessaire de crÃ©er une table HISTORIQUE_MVTS_CLIENTS.
 PROMPT =====================================================================
 PROMPT
 /*
@@ -470,7 +469,7 @@ DROP TABLE HISTORIQUE_MVTS_CLIENTS;
 
 CREATE TABLE HISTORIQUE_MVTS_CLIENTS
 (
------------- à vous de compléter
+------------ Ã  vous de complÃ©ter
 );
 
 PROMPT
@@ -478,9 +477,9 @@ pause Tapez sur Enter...
 PROMPT
 */
 
--- Enrichissement des données ========================== FIN ===========================================
--- Enrichissement des données ==========================================================================
--- Enrichissement des données ==========================================================================
+-- Enrichissement des donnÃ©es ========================== FIN ===========================================
+-- Enrichissement des donnÃ©es ==========================================================================
+-- Enrichissement des donnÃ©es ==========================================================================
 
 
 --======================================================================================
@@ -493,17 +492,17 @@ PROMPT
 
 
 -- ===============================================================================
--- Définition de la structure des données =========== FIN     ====================
+-- DÃ©finition de la structure des donnÃ©es =========== FIN     ====================
 -- en SQL 2 ======================================================================
 
 -- ===============================================================================
--- Insertion des données ============================ DEBUT ======================
+-- Insertion des donnÃ©es ============================ DEBUT ======================
 -- en SQL 2 ======================================================================
 -- Insertion des lignes dans les tables ==========================================
 
 PROMPT
 PROMPT =====================================================================
-PROMPT Insertion des données de la bd EN SQL 2 POUR UN MAGASIN donné Le FR01 de Paris
+PROMPT Insertion des donnÃ©es de la bd EN SQL 2 POUR UN MAGASIN donnÃ© Le FR01 de Paris
 PROMPT =====================================================================
 PROMPT
 PROMPT =========================================================
@@ -550,7 +549,7 @@ INSERT INTO CLIENTS (CODCLI, CIVCLI, NOMCLI, PRENCLI, CATCLI, ADNCLI, ADRCLI, CP
 VALUES ('C013', 'Monsieur', 'FORT', 'GABRIEL', 5, '1', 'AVENUE DE CARTAGE', '99000', 'TUNIS', 'TUNISIE','gabriel.fort@yahoo.fr', '+21624801777');
 
 INSERT INTO CLIENTS (CODCLI, CIVCLI, NOMCLI, PRENCLI, CATCLI, ADNCLI, ADRCLI, CPCLI, VILCLI, PAYSCLI, MAILCLI, TELCLI)
-VALUES ('C014', 'Monsieur', 'ADAM', 'DAVID', 5, '1', 'AVENUE DE ROME', '99001', 'ROME', 'ITALIE','david.adamé@gmail com', '');
+VALUES ('C014', 'Monsieur', 'ADAM', 'DAVID', 5, '1', 'AVENUE DE ROME', '99001', 'ROME', 'ITALIE','david.adamÃ©@gmail com', '');
 
 INSERT INTO CLIENTS (CODCLI, CIVCLI, NOMCLI, PRENCLI, CATCLI, ADNCLI, ADRCLI, CPCLI, VILCLI, PAYSCLI, MAILCLI, TELCLI)
 VALUES ('C015', 'Monsieur', 'Labsent', 'pala', 7, '1', 'rue des absents', '000', 'BAGDAD', 'IRAQ','pala-labsent@paici', '');
@@ -914,7 +913,7 @@ INSERT INTO DETAILCOM(NUMCOM, REFART, QTCOM, PUART, REMISE)
 VALUES ('20181AB', 'FB.001', 7, 17.77, 0.00);
 
 --=========================================================================
--- Nouvelles données pour les systèmes de recommandation
+-- Nouvelles donnÃ©es pour les systÃ¨mes de recommandation
 INSERT INTO COMMANDES (NUMCOM, CODCLI, DATCOM)
 VALUES ('2018001', 'C001', 'MONDAY 17-SEPTEMBER-2018');
 
@@ -1073,7 +1072,7 @@ COMMIT;
 PROMPT
 Pause Tapez sur Enter...
 
--- Affichage des données ===================================================
+-- Affichage des donnÃ©es ===================================================
 -- en SQL 2 ================================================================
 -- Affichage des lignes dans les tables ====================================
 
@@ -1134,14 +1133,14 @@ PROMPT
 pause Tapez sur Enter...
 PROMPT
 -- ===============================================================================
--- Insertion des données ============================ FIN ========================
+-- Insertion des donnÃ©es ============================ FIN ========================
 -- en SQL 2 ======================================================================
 
 
 
--- Manipulations-Interrogations des données =======================================================
+-- Manipulations-Interrogations des donnÃ©es =======================================================
 -- en SQL 2 =======================================================================================
--- Requêtes dans les tables =======================================================================
+-- RequÃªtes dans les tables =======================================================================
 
 
 -- ************************************************************************************************ 
@@ -1159,7 +1158,7 @@ PROMPT
 -- ************************************************************************************************ 
 
 
--- Manipulations pour vérifier les TRIGGERS des lignes dans les tables ===========
+-- Manipulations pour vÃ©rifier les TRIGGERS des lignes dans les tables ===========
 -- Table des Articles
 
 PROMPT
@@ -1167,7 +1166,7 @@ pause Tapez sur Enter...
 PROMPT
 
 PROMPT =========================================================
-PROMPT Exemple avec 2 insertions et 2 mises à jour dans la table ARTICLES
+PROMPT Exemple avec 2 insertions et 2 mises Ã  jour dans la table ARTICLES
 PROMPT =========================================================
 PROMPT
 DELETE	FROM	ARTICLES
@@ -1194,15 +1193,15 @@ COLUMN PAART	FORMAT 99.99
 COLUMN DATMAJ	FORMAT A26
 
 PROMPT =========================================================
-PROMPT Visualisation des articles insérés dans ARTICLES
+PROMPT Visualisation des articles insÃ©rÃ©s dans ARTICLES
 PROMPT =========================================================
-TTITLE CENTER 'Visualisation des articles insérés dans ARTICLES' skip 1 -
+TTITLE CENTER 'Visualisation des articles insÃ©rÃ©s dans ARTICLES' skip 1 -
        LEFT   '=========================================================================' skip 0
 SELECT	*
 FROM	ARTICLES
 WHERE	REFART IN ('WD.010', 'WD.011');
 
--- >>>>>>>>>>>>>>>>>>>>>>>>>> -- Résultat généré:
+-- >>>>>>>>>>>>>>>>>>>>>>>>>> -- RÃ©sultat gÃ©nÃ©rÃ©:
 -- ??? 
 
 PROMPT
@@ -1213,7 +1212,7 @@ PROMPT =========================================================
 PROMPT MAJ des articles dans ARTICLES
 PROMPT =========================================================
 PROMPT
-TTITLE CENTER 'Mise à jour des articles insérés dans ARTICLES' skip 1 -
+TTITLE CENTER 'Mise Ã  jour des articles insÃ©rÃ©s dans ARTICLES' skip 1 -
        LEFT   '=========================================================================' skip 0
 UPDATE	ARTICLES
 SET	PVART = 45.00, PAART = 15.00
@@ -1237,7 +1236,7 @@ SELECT	*
 FROM	ARTICLES
 WHERE	REFART IN ('WD.010', 'WD.011');
 
--- >>>>>>>>>>>>>>>>>>>>>>>>>> -- Résultat généré:
+-- >>>>>>>>>>>>>>>>>>>>>>>>>> -- RÃ©sultat gÃ©nÃ©rÃ©:
 -- ??? 
 
 PROMPT
@@ -1253,7 +1252,7 @@ TTITLE CENTER 'Visualisation de la table HISTORIQUE_PRIX' skip 1 -
 SELECT	*
 FROM	HISTORIQUE_PRIX;
 
--- >>>>>>>>>>>>>>>>>>>>>>>>>> -- Résultat généré:
+-- >>>>>>>>>>>>>>>>>>>>>>>>>> -- RÃ©sultat gÃ©nÃ©rÃ©:
 -- ??? 
 
 PROMPT
@@ -1296,7 +1295,7 @@ INSERT INTO ARTICLES (REFART, NOMART, PVART, QSART, PAART)
 VALUES ('WD.012', 'Exemple de DVD BIS', 25.00, 5, 10.00);
 
 PROMPT =====================================================================
-PROMPT Mouvements dans la table ARTICLES effectués par des utilisateurs
+PROMPT Mouvements dans la table ARTICLES effectuÃ©s par des utilisateurs
 PROMPT externes: user-y et user-X
 PROMPT =====================================================================
 PROMPT
@@ -1316,7 +1315,7 @@ FROM	HISTORIQUE_MVTS_ARTICLES;
 
 -- __________________________________________________________________________
 -- 
--- Résultat généré:
+-- RÃ©sultat gÃ©nÃ©rÃ©:
 --
 --      Visualisation de la table HISTORIQUE_MVTS_ARTICLES
 -- =========================================================================
@@ -1354,7 +1353,7 @@ FROM	HISTORIQUE_MVTS_ARTICLES;
 
 -- __________________________________________________________________________
 -- 
--- Résultat généré:
+-- RÃ©sultat gÃ©nÃ©rÃ©:
 --
 --      Visualisation de la table HISTORIQUE_MVTS_ARTICLES
 -- =========================================================================
@@ -1374,7 +1373,7 @@ PROMPT
 PROMPT
 
 PROMPT =====================================================================
-PROMPT Mise à jour dans la table ARTICLES pour effectuer les tests.
+PROMPT Mise Ã  jour dans la table ARTICLES pour effectuer les tests.
 PROMPT =====================================================================
 PROMPT
 UPDATE	ARTICLES
@@ -1402,7 +1401,7 @@ FROM	HISTORIQUE_MVTS_ARTICLES;
 
 -- __________________________________________________________________________
 -- 
--- Résultat généré:
+-- RÃ©sultat gÃ©nÃ©rÃ©:
 --
 --      Visualisation de la table HISTORIQUE_MVTS_ARTICLES
 -- =========================================================================
@@ -1412,9 +1411,9 @@ FROM	HISTORIQUE_MVTS_ARTICLES;
 PROMPT =====================================================================
 PROMPT Suppression et creation de la table comparaison_art
 PROMPT Cette table va permettre de stocker les mouvements dans
-PROMPT la table ARTICLES, pendant une période. Tout ça pour pouvoir ensuite
-PROMPT étudier l impact de ces mouvements sur le chiffre d affaires durant
-PROMPT la période considérée.
+PROMPT la table ARTICLES, pendant une pÃ©riode. Tout Ã§a pour pouvoir ensuite
+PROMPT Ã©tudier l impact de ces mouvements sur le chiffre d affaires durant
+PROMPT la pÃ©riode considÃ©rÃ©e.
 PROMPT =====================================================================
 PROMPT
 DROP TABLE COMPARAISON_ART;
@@ -1436,10 +1435,10 @@ PROMPT
 PROMPT =====================================================================
 PROMPT Suppression et creation de la table comparaison_chiffre_affaires.
 PROMPT Cette table va permettre de stocker les informations concernant
-PROMPT le chiffre d affaires moyen des différents pays avant la période où
-PROMPT l on a décidé de regarder l impact des mouvements effectués sur
+PROMPT le chiffre d affaires moyen des diffÃ©rents pays avant la pÃ©riode oÃ¹
+PROMPT l on a dÃ©cidÃ© de regarder l impact des mouvements effectuÃ©s sur
 PROMPT la table ARTICLES. De garder aussi le chiffre d affaires durant
-PROMPT la période considérée. Et aussi, d inscrire la variation au niveau
+PROMPT la pÃ©riode considÃ©rÃ©e. Et aussi, d inscrire la variation au niveau
 PROMPT des chiffres d affaires.
 PROMPT =====================================================================
 PROMPT
@@ -1462,7 +1461,7 @@ PROMPT
 PROMPT =====================================================================
 PROMPT Creation de vue VUE_ART permettant de garder pour chaque article
 PROMPT de la table ARTICLES son prix de vente moyen, son prix d achat moyen
-PROMPT et sa quantité en stock moyen.
+PROMPT et sa quantitÃ© en stock moyen.
 PROMPT =====================================================================
 PROMPT
 CREATE OR REPLACE VIEW VUE_ART (REFART, A_PVART, A_PAART, A_QSART) AS
@@ -1480,7 +1479,7 @@ PROMPT
 PROMPT =====================================================================
 PROMPT Creation de vue VUE_MVTS_ART permettant de garder pour chaque article
 PROMPT de la table HISTORIQUE_MVTS_ARTICLES son prix de vente moyen, son
-PROMPT prix d achat moyen et sa quantité en stock moyen. 
+PROMPT prix d achat moyen et sa quantitÃ© en stock moyen. 
 PROMPT =====================================================================
 PROMPT
 CREATE OR REPLACE VIEW VUE_MVTS_ART (REFART, A_PVART, A_PAART, A_QSART) AS
@@ -1499,7 +1498,7 @@ PROMPT
 
 PROMPT =====================================================================
 PROMPT Creation de vue CHIFFRE_AFFAIRES_AVANT permettant de calculer le
-PROMPT chiffre d affaires de chaque pays avant une période considérée.
+PROMPT chiffre d affaires de chaque pays avant une pÃ©riode considÃ©rÃ©e.
 PROMPT =====================================================================
 PROMPT
 CREATE OR REPLACE VIEW CHIFFRE_AFFAIRES_AVANT AS
@@ -1518,7 +1517,7 @@ PROMPT
 
 PROMPT =====================================================================
 PROMPT Creation de vue CHIFFRE_AFFAIRES_APRES permettant de calculer le
-PROMPT chiffre d affaires de chaque pays durant la période considérée.
+PROMPT chiffre d affaires de chaque pays durant la pÃ©riode considÃ©rÃ©e.
 PROMPT =====================================================================
 PROMPT
 CREATE OR REPLACE VIEW CHIFFRE_AFFAIRES_APRES (PAYSCLI, CHIFFAFF, ) AS 
@@ -1537,11 +1536,11 @@ PROMPT
 
 PROMPT =====================================================================
 PROMPT Creation de procedure MOYENNE_PRIX_ART permettant de calculer le prix
-PROMPT moyen d achat et de vente, et la quantité moyenne en stock de chaque
+PROMPT moyen d achat et de vente, et la quantitÃ© moyenne en stock de chaque
 PROMPT article. Et ensuite de calculer le chiffre d affaires avant et pendant
-PROMPT une période considérée. Tout cela pour savoir si les mouvements
-PROMPT effectués, durant une période considérée, sur la table ARTICLES ont
-PROMPT apporté plus ou moins d argent.
+PROMPT une pÃ©riode considÃ©rÃ©e. Tout cela pour savoir si les mouvements
+PROMPT effectuÃ©s, durant une pÃ©riode considÃ©rÃ©e, sur la table ARTICLES ont
+PROMPT apportÃ© plus ou moins d argent.
 PROMPT =====================================================================
 PROMPT
 CREATE OR REPLACE PROCEDURE MOYENNE_PRIX_ART IS
@@ -1630,7 +1629,7 @@ TTITLE CENTER 'Visualisation de la table COMPARAISON_ART' skip 1 -
        LEFT   '=========================================================================' skip 0
 SELECT * FROM COMPARAISON_ART;
 
--- >>>>>>>>>>>>>>>>>>>>>>>>>> -- Résultat généré:
+-- >>>>>>>>>>>>>>>>>>>>>>>>>> -- RÃ©sultat gÃ©nÃ©rÃ©:
 --
 --    Visualisation de la table COMPARAISON_ART
 -- ??
@@ -1643,7 +1642,7 @@ TTITLE CENTER 'Visualisation de la table COMPARAISON_CHIFFRE_AFFAIRES' skip 1 -
        LEFT   '=========================================================================' skip 0
 SELECT * FROM COMPARAISON_CHIFFRE_AFFAIRES;
 
--- >>>>>>>>>>>>>>>>>>>>>>>>>> -- Résultat généré:
+-- >>>>>>>>>>>>>>>>>>>>>>>>>> -- RÃ©sultat gÃ©nÃ©rÃ©:
 --
 --      Visualisation de la table COMPARAISON_CHIFFRE_AFFAIRE
 --??
@@ -1661,14 +1660,14 @@ PROMPT
 
 
 PROMPT =====================================================================
-PROMPT >> Requete  : Articles toujours commandés ensemble
+PROMPT >> Requete  : Articles toujours commandÃ©s ensemble
 PROMPT =====================================================================
 PROMPT
-TTITLE CENTER 'Requete: les articles qui sont toujours commandés ensemble' skip 1 -
+TTITLE CENTER 'Requete: les articles qui sont toujours commandÃ©s ensemble' skip 1 -
        LEFT   '=========================================================================' skip 0
 
--- >>>>>>>>>>>>>>>>>>>>>>>>>> -- Résultat généré:
--- Le(s) les articles qui sont toujours commandés ensemble sont :
+-- >>>>>>>>>>>>>>>>>>>>>>>>>> -- RÃ©sultat gÃ©nÃ©rÃ©:
+-- Le(s) les articles qui sont toujours commandÃ©s ensemble sont :
 SELECT REFART,DATCOM
 	FROM ARTICLES JOIN DETAILCOM USING(REFART) JOIN COMMANDES USING(NUMCOM)
 	GROUP BY DATCOM,REFART;
@@ -1686,7 +1685,7 @@ SELECT REFART,DATCOM
 -- ************************************************************************************************ 
 -- ************************************************************************************************ 
 
--- Manipulations pour vérifier les TRIGGERS des lignes dans les tables ============================
+-- Manipulations pour vÃ©rifier les TRIGGERS des lignes dans les tables ============================
 -- Table des Clients
 
 	
@@ -1736,7 +1735,7 @@ SELECT * FROM ColonneNull;
 --=================================================================================================
 --=================================================================================================
 --=================================================================================================
---= Manipulation intelligente des données : Dépendances Fonctionnelles   =============== DEBUT ====
+--= Manipulation intelligente des donnÃ©es : DÃ©pendances Fonctionnelles   =============== DEBUT ====
 --=================================================================================================
 --=================================================================================================
 --=================================================================================================
@@ -1745,10 +1744,10 @@ SELECT * FROM ColonneNull;
 
 /*
 
-Requêtes Ji (PL/SQL Procédures-Fonctions ; pour vérifier la Cohérence globale des données ;
->>>>>>>>>>>>>> Qualité des données
+RequÃªtes Ji (PL/SQL ProcÃ©dures-Fonctions ; pour vÃ©rifier la CohÃ©rence globale des donnÃ©es ;
+>>>>>>>>>>>>>> QualitÃ© des donnÃ©es
 
-Développez une procédure PL/SQL qui permet de vérifier certaines dépendances fonctionnelles dans la table des clients !
+DÃ©veloppez une procÃ©dure PL/SQL qui permet de vÃ©rifier certaines dÃ©pendances fonctionnelles dans la table des clients !
 
 */
 
@@ -1783,7 +1782,7 @@ COMMIT;
 
 SELECT * FROM VILPAYSDF;
 
--- Algorithme pour vérifier la DF entre 2 colonnes :
+-- Algorithme pour vÃ©rifier la DF entre 2 colonnes :
 CREATE OR REPLACE VIEW LISTAVERIFIER_VP (VILLE, PAYS) AS
 SELECT DISTINCT * FROM VILPAYSDF;
 
@@ -1794,12 +1793,12 @@ SELECT VILLE, COUNT(*) AS NBR FROM LISTAVERIFIER_VP GROUP BY VILLE ORDER BY VILL
 SELECT * FROM VERIFDF_VP ;
 
 SELECT MAX(NBR) AS MAXOCCUR FROM VERIFDF_VP;
--- REM Si MAXOCCUR > 1 Alors la DF n'est pas vérifiée !
+-- REM Si MAXOCCUR > 1 Alors la DF n'est pas vÃ©rifiÃ©e !
 
 --=================================================================================================
 --=================================================================================================
 --=================================================================================================
---= Manipulation intelligente des données : Dépendances Fonctionnelles   =============== FIN ======
+--= Manipulation intelligente des donnÃ©es : DÃ©pendances Fonctionnelles   =============== FIN ======
 --=================================================================================================
 --=================================================================================================
 --=================================================================================================
@@ -1819,8 +1818,8 @@ SELECT MAX(NBR) AS MAXOCCUR FROM VERIFDF_VP;
 --=================================================================================================
 --=================================================================================================
 
--- Exemple de procédures PL/SQL dynamique 
--- Idem pour les fonctions à quelques exceptions près (CREATE ...)
+-- Exemple de procÃ©dures PL/SQL dynamique 
+-- Idem pour les fonctions Ã  quelques exceptions prÃ¨s (CREATE ...)
 SET SERVEROUTPUT ON
 
 CREATE OR REPLACE PROCEDURE NBRLIGTAB (NOMTAB VARCHAR) IS
@@ -1857,7 +1856,7 @@ EXEC NBRNULLTABCOL('Clients','telcli');
 --=================================================================================================
 --=================================================================================================
 --=================================================================================================
---= Manipulation intelligente des données : Elimination des doubles et des similaires   === DEBUT =
+--= Manipulation intelligente des donnÃ©es : Elimination des doubles et des similaires   === DEBUT =
 --=================================================================================================
 --=================================================================================================
 --=================================================================================================
@@ -1866,8 +1865,8 @@ EXEC NBRNULLTABCOL('Clients','telcli');
 
 
 
-Requêtes Ji (PL/SQL Procédures-Fonctions ; pour vérifier la Cohérence globale des données ;
->>>>>>>>>>>>>> Qualité des données
+RequÃªtes Ji (PL/SQL ProcÃ©dures-Fonctions ; pour vÃ©rifier la CohÃ©rence globale des donnÃ©es ;
+>>>>>>>>>>>>>> QualitÃ© des donnÃ©es
 
 --procedure pour corriger 2 colonne d'une table pour avoir une df de la premiere colonne vers la deuxieme
 CREATE OR REPLACE PROCEDURE TESTCORR(colonne1 in varchar,colonne2 in varchar,tabledf in varchar)
@@ -1916,14 +1915,14 @@ END;
 
 EXEC TESTCORR ('NOMCLI','PRENCLI','CLIENTS');
 select * from test;
---Développez une procédure PL/SQL qui permet d’éliminer les doubles dans la table des clients !
+--DÃ©veloppez une procÃ©dure PL/SQL qui permet dâ€™Ã©liminer les doubles dans la table des clients !
 
 /*
-Entre parenthèses hihi haha FFF ! (...)
+Entre parenthÃ¨ses hihi haha FFF ! (...)
 
-Etant donné la table TABCLIDS suivante :
+Etant donnÃ© la table TABCLIDS suivante :
 Elle est issue des tables de la BD GesComI... 
-Faire les requêtes ci-dessous : 
+Faire les requÃªtes ci-dessous : 
 Eliminer les doubles et les similaires !
 */
 
@@ -1933,7 +1932,7 @@ CREATE TABLE TABCLIDS (COL1 VARCHAR2(10), COL2 VARCHAR2(12), COL3 VARCHAR2(10), 
 
 INSERT INTO TABCLIDS VALUES ('2994570', 'Madame', 'RAHMA', 'CLEMENCE', '3');
 INSERT INTO TABCLIDS VALUES ('2996100', 'Monsieur', 'CLEMENCE', 'ALEXANDRE', '1');
-INSERT INTO TABCLIDS VALUES ('3000107', 'MO NSIEUR', 'ONRI', 'PANDA', '2');
+INSERT INTO TABCLIDS VALUES ('3000107', 'MOÂ NSIEUR', 'ONRI', 'PANDA', '2');
 INSERT INTO TABCLIDS VALUES ('2997777', 'Mademoiselle', 'LE BON', 'CLEMENTINE', '1');
 INSERT INTO TABCLIDS VALUES ('299PPPP', 'Mlle', 'BON', 'CLEMENTINE', '1');
 INSERT INTO TABCLIDS VALUES ('2997007', 'Monsieur', 'TRAIFOR', 'ADAM', '2');
@@ -1960,7 +1959,7 @@ INSERT INTO TABCLIDS VALUES ('3001777', 'Monsieur', 'LE BON', 'Adam', '1');
 INSERT INTO TABCLIDS VALUES ('3001777', 'Monsieur', 'LE BON', 'Adam', '1');
 INSERT INTO TABCLIDS VALUES ('3001777', 'Monsieur', 'LE BON', 'Adam', '');
 INSERT INTO TABCLIDS VALUES ('3001777', 'Monsieur', 'LE BON', 'Adam', '1');
-INSERT INTO TABCLIDS VALUES ('3001777', 'Monsieùr', 'LE BON', 'Adam', '1');
+INSERT INTO TABCLIDS VALUES ('3001777', 'MonsieÃ¹r', 'LE BON', 'Adam', '1');
 INSERT INTO TABCLIDS VALUES ('2994570', 'Madame', 'RAHMA', 'CLEMENCE', '3');
 INSERT INTO TABCLIDS VALUES ('2994570', 'Madame', 'RAHMA', 'CLEMENCE', '3');
 INSERT INTO TABCLIDS VALUES ('2994570', 'Madame', 'RAHMA', 'CLEMENSE', '3');
@@ -1978,11 +1977,11 @@ REM ??? Que font les commandes SQL ci-dessous ?
 SELECT COUNT(DISTINCT *) FROM TABCLIDS ;
 SELECT DISTINCT * FROM TABCLIDS ;
 
--- ????????????      FB FB FB FB FB FB A compléter ??????????????
+-- ????????????      FB FB FB FB FB FB A complÃ©ter ??????????????
 -- A VOUS ! -- BON COURAGE -- MFB
--- ????????????      FB FB FB FB FB FB A compléter ??????????????
+-- ????????????      FB FB FB FB FB FB A complÃ©ter ??????????????
 
---Correction des données dans la tables 
+--Correction des donnÃ©es dans la tables 
 
 DROP TABLE REGULAREXPRES;
 CREATE TABLE REGULAREXPRES(
@@ -2166,7 +2165,7 @@ rem
 rem *******************  Elimination des doubles exacts  ********************************
 rem 
 rem *************************************************************************************
-rem procedure d élimination des doubles exacts sur plusieurs attributs 
+rem procedure d Ã©limination des doubles exacts sur plusieurs attributs 
 
 CREATE OR REPLACE PROCEDURE elimine_double(tabdep VARCHAR2, tabarr VARCHAR2, atts VARCHAR2)
 IS
@@ -2194,13 +2193,13 @@ END;
 --======================================================================================
 
 -- Beaucoup d'autres BIG PROBLEM se posent : 
--- Les performances ! Le temps de réponse sur les gros volumes de données les BIG DATA !
+-- Les performances ! Le temps de rÃ©ponse sur les gros volumes de donnÃ©es les BIG DATA !
 
 -- Beaucoup d'autres BIG PROBLEM se posent : 
--- Le choix des attributs clés qui servent pour l'élimination (le MATCH) !
+-- Le choix des attributs clÃ©s qui servent pour l'Ã©limination (le MATCH) !
 
 -- Beaucoup d'autres BIG PROBLEM se posent : 
--- Que faire des attributs NON clés qui ne servent pour l'élimination (le MERGE) !
+-- Que faire des attributs NON clÃ©s qui ne servent pour l'Ã©limination (le MERGE) !
 
 -- ======================================================
 -- ======================================================
@@ -2208,11 +2207,11 @@ REM -- Elimination des doubles et des similaires
 REM -- Matching, Merging, and Deduplication
 -- ======================================================
 -- ======================================================
-REM -- Professeur : Mr M. F. Boufarès
-REM -- Big Data, Bases de Données Avancées, Entrepôts de données
+REM -- Professeur : Mr M. F. BoufarÃ¨s
+REM -- Big Data, Bases de DonnÃ©es AvancÃ©es, EntrepÃ´ts de donnÃ©es
 -- ======================================================
 /*
--- Algo Data Deduplication + (DD+) [M. F. Boufarès Octobre 2018]
+-- Algo Data Deduplication + (DD+) [M. F. BoufarÃ¨s Octobre 2018]
 
 
 The DD + agorithm consists in splitting the data source into several blocks.
@@ -2282,7 +2281,7 @@ Etc...
 --=================================================================================================
 --=================================================================================================
 --=================================================================================================
---= Manipulation intelligente des données : Elimination des doubles et des similaires   ==== FIN ==
+--= Manipulation intelligente des donnÃ©es : Elimination des doubles et des similaires   ==== FIN ==
 --=================================================================================================
 --=================================================================================================
 --=================================================================================================
@@ -2295,7 +2294,7 @@ Etc...
 --=================================================================================================
 --=================================================================================================
 --=================================================================================================
---= Manipulation intelligente des données : Qu'est-ce un système de recommandation  ====== DEBUT ==
+--= Manipulation intelligente des donnÃ©es : Qu'est-ce un systÃ¨me de recommandation  ====== DEBUT ==
 --=================================================================================================
 --=================================================================================================
 --=================================================================================================
@@ -2303,39 +2302,39 @@ Etc...
 -- MFB FFF +++
 
 /*
-FB6.1. Construisez la vue « Vi » qui contient les articles commandés par un client donné « Ci »
-(pour une période donnée, exemple septembre 2018).
-Généralisez dans une procédure PL/SQL !
+FB6.1. Construisez la vue Â« Vi Â» qui contient les articles commandÃ©s par un client donnÃ© Â« Ci Â»
+(pour une pÃ©riode donnÃ©e, exemple septembre 2018).
+GÃ©nÃ©ralisez dans une procÃ©dure PL/SQL !
 
-FB6.2. Construisez la vue « Vij » qui contient les articles commandés à la fois 
-par les deux clients « Ci » et « Cj ».
-On pourrait considérer que les deux clients « Ci » et « Cj » sont « amis-voisins » 
-si et seulement si la vue « Vij » est non vide (ou 90%)!
-On pourra généraliser pour l'ensemble des amis de « Ci » (Clustering...!)
+FB6.2. Construisez la vue Â« Vij Â» qui contient les articles commandÃ©s Ã  la fois 
+par les deux clients Â« Ci Â» et Â« Cj Â».
+On pourrait considÃ©rer que les deux clients Â« Ci Â» et Â« Cj Â» sont Â« amis-voisins Â» 
+si et seulement si la vue Â« Vij Â» est non vide (ou 90%)!
+On pourra gÃ©nÃ©raliser pour l'ensemble des amis de Â« Ci Â» (Clustering...!)
 
-On pourrait alors recommander ou proposer à l'un des deux clients, soit « Cj », 
-les articles de « Ci » -son ami- qu'il n'a pas commandés !
+On pourrait alors recommander ou proposer Ã  l'un des deux clients, soit Â« Cj Â», 
+les articles de Â« Ci Â» -son ami- qu'il n'a pas commandÃ©s !
 
-On pourrait aussi recommander ou proposer à l'un des deux clients, soit « Cj », 
-les articles de « Ci » -son ami- qu'il n'a pas commandés + 
-mais qui doivent appartenir à la même catégorie !
+On pourrait aussi recommander ou proposer Ã  l'un des deux clients, soit Â« Cj Â», 
+les articles de Â« Ci Â» -son ami- qu'il n'a pas commandÃ©s + 
+mais qui doivent appartenir Ã  la mÃªme catÃ©gorie !
 
-Discussions & Généralisation !
+Discussions & GÃ©nÃ©ralisation !
 
 */
 
--- ????????????      FB FB FB FB FB FB A compléter ??????????????
+-- ????????????      FB FB FB FB FB FB A complÃ©ter ??????????????
 
---====================  Le début d'un système de recommandation  ==================================
---====================  Classification des clients selon les articles commandés ===================
+--====================  Le dÃ©but d'un systÃ¨me de recommandation  ==================================
+--====================  Classification des clients selon les articles commandÃ©s ===================
 
--- Les articles commandés par les clients !
--- On pourrait ne s'intéresser qu'à certains clients et certains articles
+-- Les articles commandÃ©s par les clients !
+-- On pourrait ne s'intÃ©resser qu'Ã  certains clients et certains articles
 -- (c-a-d : Certains CODCLI des clients ; Certains REFART des articles...)
 
--- On pourrait ne s'intéresser qu'à certaines commandes
+-- On pourrait ne s'intÃ©resser qu'Ã  certaines commandes
 -- (c-a-d : Certains NUMCOM des commandes...)
--- Les articles commandés pendant la période concernée (SEP 2018).
+-- Les articles commandÃ©s pendant la pÃ©riode concernÃ©e (SEP 2018).
 
 CREATE OR REPLACE VIEW V_CLIARTQTE (CLIENT, ARTICLE, QUANTITE) AS
 SELECT K.CODCLI, D.REFART, SUM(D.QTCOM) FROM COMMANDES K, DETAILCOM D
@@ -2347,33 +2346,33 @@ ORDER BY 1, 2;
 
 SELECT * FROM V_CLIARTQTE ;
 
--- Pour tout client Ci AYANT SATISFAIT certains critères !
---Les articles commandés par le client C001.
+-- Pour tout client Ci AYANT SATISFAIT certains critÃ¨res !
+--Les articles commandÃ©s par le client C001.
 CREATE OR REPLACE VIEW V_C001 AS
 SELECT * FROM V_CLIARTQTE
 WHERE CLIENT = 'C001';
 
---Les articles commandés par le client C002.
+--Les articles commandÃ©s par le client C002.
 CREATE OR REPLACE VIEW V_C002 AS
 SELECT * FROM V_CLIARTQTE
 WHERE CLIENT = 'C002';
 
---Les articles commandés par le client C003.
+--Les articles commandÃ©s par le client C003.
 CREATE OR REPLACE VIEW V_C003 AS
 SELECT * FROM V_CLIARTQTE
 WHERE CLIENT = 'C003';
 
 -- Etc...
 
---Les articles commandés par le client C006.
+--Les articles commandÃ©s par le client C006.
 CREATE OR REPLACE VIEW V_C006 AS
 SELECT * FROM V_CLIARTQTE
 WHERE CLIENT = 'C006';
 
 -- Etc...
 
--- Les articles commandés, à la fois, par les clients C001 et C002.
--- 1ère Solution : Les articles commandés, à la fois, par les clients C001 et C002.
+-- Les articles commandÃ©s, Ã  la fois, par les clients C001 et C002.
+-- 1Ã¨re Solution : Les articles commandÃ©s, Ã  la fois, par les clients C001 et C002.
 CREATE OR REPLACE VIEW V_C001_C002_A (ARTICLE) AS
 SELECT ARTICLE FROM V_C001
 INTERSECT
@@ -2385,38 +2384,38 @@ SELECT ARTICLE FROM V_C001
 WHERE ARTICLE IN (SELECT ARTICLE FROM V_C002);
 SELECT * FROM V_C001_C002_A;
 
--- Les articles commandés, à la fois, par les clients C001 et C002.
--- 2ème Solution : Les articles commandés, à la fois, par les clients C001 et C002.
+-- Les articles commandÃ©s, Ã  la fois, par les clients C001 et C002.
+-- 2Ã¨me Solution : Les articles commandÃ©s, Ã  la fois, par les clients C001 et C002.
 CREATE OR REPLACE VIEW V_C001_C002_B (CLIG, ARTG, QTEG, CLID, ARTD, QTED) AS
 SELECT X.CLIENT, X.ARTICLE, X.QUANTITE, Y.CLIENT, Y.ARTICLE, Y.QUANTITE
 FROM V_C001 X, V_C002 Y
 WHERE X.ARTICLE = Y.ARTICLE ;
--- Remarque : Que faut-il faire pour les articles qui sont commandés par l'un mais pas par l'autre?
+-- Remarque : Que faut-il faire pour les articles qui sont commandÃ©s par l'un mais pas par l'autre?
 
--- Les articles commandés, à la fois, par les clients C001 et C003.
--- 2ème Solution : Les articles commandés, à la fois, par les clients C001 et C003.
+-- Les articles commandÃ©s, Ã  la fois, par les clients C001 et C003.
+-- 2Ã¨me Solution : Les articles commandÃ©s, Ã  la fois, par les clients C001 et C003.
 CREATE OR REPLACE VIEW V_C001_C003_B (CLIG, ARTG, QTEG, CLID, ARTD, QTED) AS
 SELECT X.CLIENT, X.ARTICLE, X.QUANTITE, Y.CLIENT, Y.ARTICLE, Y.QUANTITE
 FROM V_C001 X, V_C002 Y
 WHERE X.ARTICLE = Y.ARTICLE ;
--- Remarque : Que faut-il faire pour les articles qui sont commandés par l'un mais pas par l'autre?
+-- Remarque : Que faut-il faire pour les articles qui sont commandÃ©s par l'un mais pas par l'autre?
 
 
--- Le nombre d''articles communs à C001 et C002
+-- Le nombre d''articles communs Ã  C001 et C002
 SELECT COUNT(*) AS NCOMM1 FROM V_C001_C002_B;
 
--- Si NCOMM1 > n Alors C001 et C002 sont "amis" font partie de la même classe-(groupe-cluster)
+-- Si NCOMM1 > n Alors C001 et C002 sont "amis" font partie de la mÃªme classe-(groupe-cluster)
 -- Comment calculer n ?
--- n pourrait-être égal à p% du max des cardinalités des vues !
+-- n pourrait-Ãªtre Ã©gal Ã  p% du max des cardinalitÃ©s des vues !
 
 
 
 
--- On recommande (on propose) alors à C002 les articles de C001 qu''il n''a pas commandés :
+-- On recommande (on propose) alors Ã  C002 les articles de C001 qu''il n''a pas commandÃ©s :
 SELECT ARTICLE FROM V_C001
 MINUS
 SELECT ARTICLE FROM V_C002;
--- On recommande (on propose) alors à C001 les articles de C002 qu''il n''a pas commandés :
+-- On recommande (on propose) alors Ã  C001 les articles de C002 qu''il n''a pas commandÃ©s :
 SELECT ARTICLE FROM V_C002
 MINUS
 SELECT ARTICLE FROM V_C001;
@@ -2463,11 +2462,11 @@ BEGIN
 
 	SELECT COUNT(*) INTO N FROM V_C001_C002_A;
 		IF N>=3 THEN
-			-- On recommande (on propose) alors a C002 les articles de C001 qu''il n''a pas commandés :
+			-- On recommande (on propose) alors a C002 les articles de C001 qu''il n''a pas commandÃ©s :
 			FOR I IN art LOOP
 				DBMS_OUTPUT.put_line('LES ARTICLE RECOMMANDE POUR C002 '|| I.ARTICLE);
 			END LOOP;
-			-- On recommande (on propose) alors a C001 les articles de C002 qu''il n''a pas commandés :
+			-- On recommande (on propose) alors a C001 les articles de C002 qu''il n''a pas commandÃ©s :
 			FOR I IN art2 LOOP
 				DBMS_OUTPUT.put_line('LES ARTICLE RECOMMANDE POUR C001 '|| I.ARTICLE);
 			END LOOP;
@@ -2492,7 +2491,7 @@ select * from toto;
 --=================================================================================================
 --=================================================================================================
 --=================================================================================================
---= Manipulation intelligente des données : Qu'est-ce un système de recommandation  ====== FIN ====
+--= Manipulation intelligente des donnÃ©es : Qu'est-ce un systÃ¨me de recommandation  ====== FIN ====
 --=================================================================================================
 --=================================================================================================
 --=================================================================================================
