@@ -3,7 +3,7 @@
 -- Université Sorbonne Paris Cité - Promotion 2018-2019 - Décembre 2018
 --====  FB ===========================================================================
 
--- Binôme Bxy :  ZEGGANE Rouad            *** MECHAREK Thinhinane
+-- Binôme Bxy :  ZEGGANE Rouad          
 
 -- Master 2 Informatique, Professionnel, Exploration Informatique des Données et Décisionnel
 -- Examen de Bases de Données Avancées
