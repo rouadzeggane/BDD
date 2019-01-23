@@ -1,19 +1,19 @@
 -- ===============================================================================
--------- Université Sorbonne Paris Cité, Université Paris 13 , Institut Galiée
--------- Master 2, Informatique, Exploration Informatique des Données et Décisionnel
+-------- UniversitÃ© Sorbonne Paris CitÃ©, UniversitÃ© Paris 13 , Institut GaliÃ©e
+-------- Master 2, Informatique, Exploration Informatique des DonnÃ©es et DÃ©cisionnel
 -------- M2 EID2
 
 -- ===============================================================================
 -------- La Data ; The Data
--------- La Donnée est le monde du futur ; Les données et le monde de l'avenir
+-------- La DonnÃ©e est le monde du futur ; Les donnÃ©es et le monde de l'avenir
 -------- The Data is the world of the future ;  The Data and the future's world
 
 -------- DATA -->>> Big Data, Dark Data, Open Data, ... 
 -- ===============================================================================
--------- Bases de Données Avancées = Advanced Databases (BDA)
--------- Entrepôts de Données = Data Warehouses (DWH, EDON)
+-------- Bases de DonnÃ©es AvancÃ©es = Advanced Databases (BDA)
+-------- EntrepÃ´ts de DonnÃ©es = Data Warehouses (DWH, EDON)
 
--------- Directeur :  Dr. M. Faouzi Boufarès
+-------- Directeur :  Dr. M. Faouzi BoufarÃ¨s
 -------- Enseignant-Chercheur Responsable      
 
 -------- Page Web : http://www.lipn.univ-paris13.fr/~boufares
@@ -22,20 +22,20 @@
 
 -- ===============================================================================
 -- ===============================================================================
---   Projet  BDM : Big Data Management - Gestion des Données Massives
+--   Projet  BDM : Big Data Management - Gestion des DonnÃ©es Massives
 --
---   Data Manipulation (DI) - Manipulation de Données
---   Data Integration (DI) - Intégration de Données
---   Données structurées ; Données Semi-structurées ; Données NON structurées
+--   Data Manipulation (DI) - Manipulation de DonnÃ©es
+--   Data Integration (DI) - IntÃ©gration de DonnÃ©es
+--   DonnÃ©es structurÃ©es ; DonnÃ©es Semi-structurÃ©es ; DonnÃ©es NON structurÃ©es
 --   Structured data; Semi-structured data; NON-structured data
 
---   Master Data Management (MDM) - Gestion des Données de Référence
---   Data Quality Managment (DQM) - Gestion de la qualité des données
---   Data Cleaning - Nettayage des données
+--   Master Data Management (MDM) - Gestion des DonnÃ©es de RÃ©fÃ©rence
+--   Data Quality Managment (DQM) - Gestion de la qualitÃ© des donnÃ©es
+--   Data Cleaning - Nettayage des donnÃ©es
 --   Data deduplication - Elimination des doubles et des similaires
 
 --   More semantics to better correct the data 
---   Plus de sémantique afin de mieux corriger les données
+--   Plus de sÃ©mantique afin de mieux corriger les donnÃ©es
 -- ===============================================================================
 -- ===============================================================================
 --
@@ -43,21 +43,21 @@
 --
 -- Big Data & Clound Computing : Think DIFFERENTLY, BIGGER and SMARTER !
 -- The Excellence in Data Use !
--- EID : L'Excellence dans l'Investigation des Données
+-- EID : L'Excellence dans l'Investigation des DonnÃ©es
 -- EID : Excellence in Data Investigation
 --
 -- =============================================================================== 
 -- Think DIFFERENTLY, BIGGER and SMARTER ! The Excellence in Data Use !
 -- MISSION IMPOSSIBLE OU POSSIBLE ????? !!!!!!!!!!!
--- Votre mission, si vous l’acceptez, est : The Excellence in Data Use !
--- Si vous échouez, nous nierons avoir eu connaissance de vos agissements !
+-- Votre mission, si vous lâ€™acceptez, est : The Excellence in Data Use !
+-- Si vous Ã©chouez, nous nierons avoir eu connaissance de vos agissements !
 
 -- ===============================================================================
 -- Les dictons du jour !
 --
--- Aujourd'hui, j'arrête de fumer
+-- Aujourd'hui, j'arrÃªte de fumer
 -- Le TABAC t'ABAT
--- Fumer nuit grâvement à ta santé et à celle de ton entourage
+-- Fumer nuit grÃ¢vement Ã  ta santÃ© et Ã  celle de ton entourage
 --
 -- M   T   Dents
 -- SMILE and the World SMILES with you !
@@ -65,13 +65,13 @@
 -- MANGER + MANGER = GROSSIR (??? M, A, N, G, E, R, O, S, S, I)
 --
 -- Manger & Bouger, 
--- Pour votre santé mangez 5 fruits et légumes par jour
--- Pour votre santé ne mangez pas trop gras, trop salé, trop sucré
--- Pour votre santé faites une activité physique régulière
--- Pour votre santé faites 30 mn de marche par jour
--- Pour votre santé faites des BD !!!
+-- Pour votre santÃ© mangez 5 fruits et lÃ©gumes par jour
+-- Pour votre santÃ© ne mangez pas trop gras, trop salÃ©, trop sucrÃ©
+-- Pour votre santÃ© faites une activitÃ© physique rÃ©guliÃ¨re
+-- Pour votre santÃ© faites 30 mn de marche par jour
+-- Pour votre santÃ© faites des BD !!!
 --
--- Dr. M. Faouzi Boufarès
+-- Dr. M. Faouzi BoufarÃ¨s
 -- =============================================================================== 
 -- =============================================================================== 
 --   A new ETL   ETL & DQ : Extract-Transform-Load & Data-Quality 
@@ -84,15 +84,14 @@
 -- ===============================================================================                   
 --   Nom du SGBD/DBMS  : ORACLE  /  DB2  /  MySQL  /  ...        
 --   Date de creation  : 17/09/2018
----  Lieu              : Université Sorbonne Paris Cité, Université Paris 13, Institut Galiée
+---  Lieu              : UniversitÃ© Sorbonne Paris CitÃ©, UniversitÃ© Paris 13, Institut GaliÃ©e
 -- =============================================================================== 
 -- ===============================================================================
 -------------------- Master 2 EID2 - Promotion 2018-2019 -------------------------
 
--- Groupe de Travail N° (Binôme)  : B14
+-- Groupe de Travail NÂ° (BinÃ´me)  : B14
 
--- NOM Prénom 1                   : ZEGGANE Rouad
--- NOM Prénom 2                   : MECHAREK Thinhinane
+-- NOM PrÃ©nom 1                   : ZEGGANE Rouad
 
 -- ====>>> Vos fichiers sql devront s'appeler : Bxy-NomDuFichier.sql
 -- ====>>> Ce fichier sql s'appelle : B14-G1.sql
@@ -100,17 +99,17 @@
 -- =============================================================================== 
 -- ===============================================================================
 -- ===============================================================================
---   Problématique    :  Intégration de données hétérogènes, distribuées
+--   ProblÃ©matique    :  IntÃ©gration de donnÃ©es hÃ©tÃ©rogÃ¨nes, distribuÃ©es
 
---   Problématique    :  Traitement des anomalies éventuelles
---   Problématique    :  Plusieurs types d'anomalies INTRA-Colonne ; INTER-COLONNES ; INTER-LIGNES
+--   ProblÃ©matique    :  Traitement des anomalies Ã©ventuelles
+--   ProblÃ©matique    :  Plusieurs types d'anomalies INTRA-Colonne ; INTER-COLONNES ; INTER-LIGNES
 
---   Problématique    :  Standardisation de données hétérogènes
---   Problématique    :  Traitement des valeurs invalides syntaxiquement
---   Problématique    :  Traitement des valeurs invalides sémantiquement
---   Problématique    :  Traitement des valeurs nulles
---   Problématique    :  Traitement des redondances sémantiques (Dépendances fonctionnelles)
---   Problématique    :  Elimination des doubles et similaires
+--   ProblÃ©matique    :  Standardisation de donnÃ©es hÃ©tÃ©rogÃ¨nes
+--   ProblÃ©matique    :  Traitement des valeurs invalides syntaxiquement
+--   ProblÃ©matique    :  Traitement des valeurs invalides sÃ©mantiquement
+--   ProblÃ©matique    :  Traitement des valeurs nulles
+--   ProblÃ©matique    :  Traitement des redondances sÃ©mantiques (DÃ©pendances fonctionnelles)
+--   ProblÃ©matique    :  Elimination des doubles et similaires
 
 -- =============================================================================== 
 -- ===============================================================================
@@ -134,9 +133,9 @@ SPOOL Bxy-GCI-01.lst
 PROMPT =========================================================
 -- Nom du Cas       :  Gestion Commerciale Intelligente : GESCOMI : GCI
 -- Nom de SGBD      :  ORACLE DBMS                    
--- Date de création :  SEPTEMBER 2018
+-- Date de crÃ©ation :  SEPTEMBER 2018
 -- Auteur           :  Faouzi BOUFARES 
--- Université       :  Université Sorbonne Paris Cité, Université Paris 13 
+-- UniversitÃ©       :  UniversitÃ© Sorbonne Paris CitÃ©, UniversitÃ© Paris 13 
 -- Formation        :  Master 2 EID 2  
 PROMPT =========================================================
 PROMPT 
@@ -153,13 +152,13 @@ PROMPT =========================================================
 PROMPT Ceci permet d initialiser le type de la date
 PROMPT =========================================================
 ALTER SESSION SET NLS_DATE_FORMAT = 'DAY DD-MONTH-YYYY' ;
--->>>> ALTER SESSION SET >>>> dire que c de l'anglais ou de l'américain
+-->>>> ALTER SESSION SET >>>> dire que c de l'anglais ou de l'amÃ©ricain
 PROMPT =========================================================
 
 -- ===============================================================================
--- Définition de la structure des données ================= DEBUT    =============
+-- DÃ©finition de la structure des donnÃ©es ================= DEBUT    =============
 -- en SQL 2 ======================================================================
--- Création des tables ============= Magasin FR01 ====== PARIS   =================
+-- CrÃ©ation des tables ============= Magasin FR01 ====== PARIS   =================
 
 PROMPT Destruction des tables de la bd GESCOMI EN SQL 2
 PROMPT =========================================================
@@ -172,7 +171,7 @@ PROMPT
 Pause Tapez sur Enter...
 PROMPT
 PROMPT =========================================================
-PROMPT Création des tables de la bd GESCOMI EN SQL 2
+PROMPT CrÃ©ation des tables de la bd GESCOMI EN SQL 2
 PROMPT =========================================================
 PROMPT
 PROMPT =========================================================
@@ -262,17 +261,17 @@ PROMPT
 Pause Tapez sur Enter...
 
 -- ===============================================================================
--- Définition de la structure des données =========== FIN     ====================
+-- DÃ©finition de la structure des donnÃ©es =========== FIN     ====================
 -- en SQL 2 ======================================================================
 
 -- ===============================================================================
--- Insertion des données ============================ DEBUT ======================
+-- Insertion des donnÃ©es ============================ DEBUT ======================
 -- en SQL 2 ======================================================================
 -- Insertion des lignes dans les tables ==========================================
 
 PROMPT
 PROMPT =====================================================================
-PROMPT Insertion des données de la bd EN SQL 2 POUR UN MAGASIN donné Le FR01 de Paris
+PROMPT Insertion des donnÃ©es de la bd EN SQL 2 POUR UN MAGASIN donnÃ© Le FR01 de Paris
 PROMPT =====================================================================
 PROMPT
 PROMPT =========================================================
@@ -319,7 +318,7 @@ INSERT INTO CLIENTS (CODCLI, CIVCLI, NOMCLI, PRENCLI, CATCLI, ADNCLI, ADRCLI, CP
 VALUES ('C013', 'Monsieur', 'FORT', 'GABRIEL', 5, '1', 'AVENUE DE CARTAGE', '99000', 'TUNIS', 'TUNISIE','gabriel.fort@yahoo.fr', '+21624801777');
 
 INSERT INTO CLIENTS (CODCLI, CIVCLI, NOMCLI, PRENCLI, CATCLI, ADNCLI, ADRCLI, CPCLI, VILCLI, PAYSCLI, MAILCLI, TELCLI)
-VALUES ('C014', 'Monsieur', 'ADAM', 'DAVID', 5, '1', 'AVENUE DE ROME', '99001', 'ROME', 'ITALIE','david.adamé@gmail com', '');
+VALUES ('C014', 'Monsieur', 'ADAM', 'DAVID', 5, '1', 'AVENUE DE ROME', '99001', 'ROME', 'ITALIE','david.adamÃ©@gmail com', '');
 
 INSERT INTO CLIENTS (CODCLI, CIVCLI, NOMCLI, PRENCLI, CATCLI, ADNCLI, ADRCLI, CPCLI, VILCLI, PAYSCLI, MAILCLI, TELCLI)
 VALUES ('C015', 'Monsieur', 'Labsent', 'pala', 7, '1', 'rue des absents', '000', 'BAGDAD', 'IRAQ','pala-labsent@paici', '');
@@ -683,7 +682,7 @@ INSERT INTO DETAILCOM(NUMCOM, REFART, QTCOM, PUART, REMISE)
 VALUES ('20181AB', 'FB.001', 7, 17.77, 0.00);
 
 --=========================================================================
--- Nouvelles données pour les systèmes de recommandantion
+-- Nouvelles donnÃ©es pour les systÃ¨mes de recommandantion
 INSERT INTO COMMANDES (NUMCOM, CODCLI, DATCOM)
 VALUES ('2018001', 'C001', 'MONDAY 17-SEPTEMBER-2018');
 
@@ -836,7 +835,7 @@ COMMIT;
 PROMPT
 Pause Tapez sur Enter...
 
--- Affichage des données ===================================================
+-- Affichage des donnÃ©es ===================================================
 -- en SQL 2 ================================================================
 -- Affichage des lignes dans les tables ====================================
 
@@ -897,132 +896,132 @@ PROMPT
 pause Tapez sur Enter...
 PROMPT
 -- ===============================================================================
--- Insertion des données ============================ FIN ========================
+-- Insertion des donnÃ©es ============================ FIN ========================
 -- en SQL 2 ======================================================================
 -- Insertion des lignes dans les tables ==========================================
 
 -- ===============================================================================
 -- Insertion des lignes dans les tables ==========================================
--- Manipulations-Interrogations des données ========= DEBUT ======================
+-- Manipulations-Interrogations des donnÃ©es ========= DEBUT ======================
 -- en SQL 2 ======================================================================
--- Requêtes dans les tables ======================================================
+-- RequÃªtes dans les tables ======================================================
 
 PROMPT =========================================================
 PROMPT FB-A : Requetes sur la bd EN SQL 2 : A, B, C, D, E, F, I, J...
 PROMPT =========================================================
 PROMPT
 /*
-Exemples de requêtes à Tester : 
+Exemples de requÃªtes Ã  Tester : 
 
-Requêtes Ai (Sélections + Projections)
-A01. Les Noms des clients (Avec éventuellement des doublons)
+RequÃªtes Ai (SÃ©lections + Projections)
+A01. Les Noms des clients (Avec Ã©ventuellement des doublons)
 A02. Les Noms des clients (Sans les doublons)
-A03. Les articles dont le prix de vente est supérieur ou égal au double du prix d’achat
+A03. Les articles dont le prix de vente est supÃ©rieur ou Ã©gal au double du prix dâ€™achat
 A04. Les articles dont le prix de vente est soit 4 soit 27 soit 35
 A05. Les articles dont le prix de vente est compris entre 30 et 50
 A06. Les commandes du mois de SEPTEMBER 2015
-A07. Les détails des commandes d’une année donnée (2012)
-A08. Les clients de « Paris » (Civilité Nom Prénom, Ville)
-A09. Les clients dont le nom commence par « C »
-A10. Les articles dont le nom commence par « Barrières de … »
-A11. Les articles du fournisseur « WD »
-A12. Les clients pour lesquels on n'a pas de téléphone
-A13. Les clients dont le nom de la ville se prononce comme « pari » ou « barizzz » ou « pary »
-A14. Décodification de la catégorie des clients : Transformez la catégorie comme suit : 
-     1 ? Grossiste, 2 ? Demi-Gros, ? Détaillant
-A15. Qualité des données ::: Y-a-t-il des anomalies dans les données ; Quelles sont ces anomalies ? 
+A07. Les dÃ©tails des commandes dâ€™une annÃ©e donnÃ©e (2012)
+A08. Les clients de Â« Paris Â» (CivilitÃ© Nom PrÃ©nom, Ville)
+A09. Les clients dont le nom commence par Â« C Â»
+A10. Les articles dont le nom commence par Â« BarriÃ¨res de â€¦ Â»
+A11. Les articles du fournisseur Â« WD Â»
+A12. Les clients pour lesquels on n'a pas de tÃ©lÃ©phone
+A13. Les clients dont le nom de la ville se prononce comme Â« pari Â» ou Â« barizzz Â» ou Â« pary Â»
+A14. DÃ©codification de la catÃ©gorie des clients : Transformez la catÃ©gorie comme suit : 
+     1 ? Grossiste, 2 ? Demi-Gros, ? DÃ©taillant
+A15. QualitÃ© des donnÃ©es ::: Y-a-t-il des anomalies dans les donnÃ©es ; Quelles sont ces anomalies ? 
 A15a. Les clients pour lesquels les mails sont invalides (Code, Nom, et Mail)
-A15b. Les clients pour lesquels les téléphones sont invalides (Code, Nom, et Mail)
+A15b. Les clients pour lesquels les tÃ©lÃ©phones sont invalides (Code, Nom, et Mail)
 
-Requêtes Bi (Tris + Sélections + Projections + Calculs)
+RequÃªtes Bi (Tris + SÃ©lections + Projections + Calculs)
 B01. Classez les clients par ville, par ordre croissant
-B02. Classez les articles de PV < 20, dans l’ordre décroissant du stock
-B03. Calculez la marge pour chaque article (marge = PV – PA !)
-B04. Calculez la marge pour tous les sièges
-B05. Classez la marge pour tous les sièges, dans l’ordre décroissant de la marge
+B02. Classez les articles de PV < 20, dans lâ€™ordre dÃ©croissant du stock
+B03. Calculez la marge pour chaque article (marge = PV â€“ PA !)
+B04. Calculez la marge pour tous les siÃ¨ges
+B05. Classez la marge pour tous les siÃ¨ges, dans lâ€™ordre dÃ©croissant de la marge
 
-Requêtes Ci (Calculs + Sélections+ Projections)
+RequÃªtes Ci (Calculs + SÃ©lections+ Projections)
 C01. Nombre de clients (Femme + Homme)
 C02. Nombre de clientes (Femme)
 C03. Nombre de clients (Homme)
-C04. Le prix de vente le plus élevé
+C04. Le prix de vente le plus Ã©levÃ©
 C05. Moyenne des prix de vente des articles
-C06. Le chiffre d’affaires global
-C07. Les articles dont le prix de vente est supérieur à la moyenne des prix de vente
+C06. Le chiffre dâ€™affaires global
+C07. Les articles dont le prix de vente est supÃ©rieur Ã  la moyenne des prix de vente
 
-Requêtes Di (Calculs + Sous-Totaux + Sélections+ Projections)
-D01. Nombre de clients par catégorie
-D02. Nombre de clients parisiens par catégorie
+RequÃªtes Di (Calculs + Sous-Totaux + SÃ©lections+ Projections)
+D01. Nombre de clients par catÃ©gorie
+D02. Nombre de clients parisiens par catÃ©gorie
 D03. Montant de chaque commande
-D04. Nombre de clients parisiens par catégorie, nombre > 2
-D05. Total des quantités commandées par article
-D06. Total des quantités commandées par catégorie d’article
-D07. Total du chiffre d’affaires par catégorie d’article
-D08. Total, moyenne, min et max du chiffre d’affaires par catégorie d’article
-D09. Le chiffre d’affaires par année
+D04. Nombre de clients parisiens par catÃ©gorie, nombre > 2
+D05. Total des quantitÃ©s commandÃ©es par article
+D06. Total des quantitÃ©s commandÃ©es par catÃ©gorie dâ€™article
+D07. Total du chiffre dâ€™affaires par catÃ©gorie dâ€™article
+D08. Total, moyenne, min et max du chiffre dâ€™affaires par catÃ©gorie dâ€™article
+D09. Le chiffre dâ€™affaires par annÃ©e
 
-Requêtes Ei (Jointures + Sélections + Projections)
-E01.   ? Différents types de jointures (équi-jointure)  : voir pages suivantes
+RequÃªtes Ei (Jointures + SÃ©lections + Projections)
+E01.   ? DiffÃ©rents types de jointures (Ã©qui-jointure)  : voir pages suivantes
 E02. full outer join
 E03. left join
 E04. right join
-E05. Produit Cartésien (Le cas le plus général sans clause WHERE ; la jointure est un cas particulier)
-E06. La téta-jointure (téta appartient à < <= > >= <>)
+E05. Produit CartÃ©sien (Le cas le plus gÃ©nÃ©ral sans clause WHERE ; la jointure est un cas particulier)
+E06. La tÃ©ta-jointure (tÃ©ta appartient Ã  < <= > >= <>)
 E07.
-E08. Jointure & Optimisation des requêtes
-E09. Jointure avec une requête dans la clause FROM
-E10. Jointure & Ordre d’exécution des tables
+E08. Jointure & Optimisation des requÃªtes
+E09. Jointure avec une requÃªte dans la clause FROM
+E10. Jointure & Ordre dâ€™exÃ©cution des tables
 
-Requêtes Fi (Calculs + Sous-Totaux + Unions + Intersections + Différences + Jointures)
-F01. Clients ayant commandé en SEPTEMBER 2011
+RequÃªtes Fi (Calculs + Sous-Totaux + Unions + Intersections + DiffÃ©rences + Jointures)
+F01. Clients ayant commandÃ© en SEPTEMBER 2011
 F02. Montant total des commandes de SEPTEMBER 2011
-F03. Commandes ayant des articles dont le prix vente est supérieur à 20 (Commande, Article, PV)
-F04. Commandes ayant des articles dont le prix vente est supérieur à 20 (Commande, Nombre)
-F05. Commandes ayant 4 articles dont le prix vente est supérieur à 20
-F06. Les clients de paris qui n’ont pas commandé en OCTOBER 2011
-F07. Les clients de paris ou ceux ayant commandé en OCTOBER 2011
+F03. Commandes ayant des articles dont le prix vente est supÃ©rieur Ã  20 (Commande, Article, PV)
+F04. Commandes ayant des articles dont le prix vente est supÃ©rieur Ã  20 (Commande, Nombre)
+F05. Commandes ayant 4 articles dont le prix vente est supÃ©rieur Ã  20
+F06. Les clients de paris qui nâ€™ont pas commandÃ© en OCTOBER 2011
+F07. Les clients de paris ou ceux ayant commandÃ© en OCTOBER 2011
 
-Requêtes Gi (Divisions)
+RequÃªtes Gi (Divisions)
 G01. Les articles qui figurent sur toutes les commandes !
-G02. Articles commandés par tous les parisiens
-G03. Les articles qui figurent sur toutes les commandes d’une période donnée !
+G02. Articles commandÃ©s par tous les parisiens
+G03. Les articles qui figurent sur toutes les commandes dâ€™une pÃ©riode donnÃ©e !
 
-Requêtes Hi (SQL Avancé, SQL pour le multidimensionnel)
+RequÃªtes Hi (SQL AvancÃ©, SQL pour le multidimensionnel)
 H01. Nombre de clients
 H02. Nombre de pays
-H03. Nombre de clients par catégorie
-H04. Nombre de clients par catégorie et par ville
-H05. Nombre de clients par ville et par catégorie
-H06. Nombre de clients par catégorie et par ville ? fonction CUBE
-H07. Nombre de clients par catégorie et par ville ? fonction ROLLUP
+H03. Nombre de clients par catÃ©gorie
+H04. Nombre de clients par catÃ©gorie et par ville
+H05. Nombre de clients par ville et par catÃ©gorie
+H06. Nombre de clients par catÃ©gorie et par ville ? fonction CUBE
+H07. Nombre de clients par catÃ©gorie et par ville ? fonction ROLLUP
 
-H08. Classez les clients par ordre décroissant du chiffre d’affaires CA
-H09. Classez les clients par ordre décroissant du ca, donnez le rang
-H10. Classez les clients par ordre décroissant du ca, donnez le rang : RANK() OVER…
-H11. Clients par ordre décroissant du ca et de la catégorie, donnez le rang
-H12. Clients par ordre décroissant du ca et de la catégorie, donnez le rang
+H08. Classez les clients par ordre dÃ©croissant du chiffre dâ€™affaires CA
+H09. Classez les clients par ordre dÃ©croissant du ca, donnez le rang
+H10. Classez les clients par ordre dÃ©croissant du ca, donnez le rang : RANK() OVERâ€¦
+H11. Clients par ordre dÃ©croissant du ca et de la catÃ©gorie, donnez le rang
+H12. Clients par ordre dÃ©croissant du ca et de la catÃ©gorie, donnez le rang
 
 
-Requêtes Ii (SQL Gestion de Gros volumes de Données - Export / Import)
-I01. Export depuis une BD gérée par un SGBD vers des fichiers (Extraction/Export/Déchargement)
-Utilisation de l’utilitaire SPOOLER pour extraire/exporter les tables d’une BD vers des fichiers textes
-(sql> spool nomdefichier.txt 		sql>select… 				sql> spool off)
-(sql> spool nomdefichier.lst 		sql>select…				sql> spool off)
-Déchargez toutes les tables de la BD dans des fichiers CSV en utilisant le « ; » comme séparateur de colonnes.
+RequÃªtes Ii (SQL Gestion de Gros volumes de DonnÃ©es - Export / Import)
+I01. Export depuis une BD gÃ©rÃ©e par un SGBD vers des fichiers (Extraction/Export/DÃ©chargement)
+Utilisation de lâ€™utilitaire SPOOLER pour extraire/exporter les tables dâ€™une BD vers des fichiers textes
+(sql> spool nomdefichier.txt 		sql>selectâ€¦ 				sql> spool off)
+(sql> spool nomdefichier.lst 		sql>selectâ€¦				sql> spool off)
+DÃ©chargez toutes les tables de la BD dans des fichiers CSV en utilisant le Â« ; Â» comme sÃ©parateur de colonnes.
 
-I02. Import Depuis des fichiers vers une BD gérée par un SGBD (Import/Chargement)
-Importer/Chargez toutes les tables de la BD à partir de fichiers de différents types tels que CSV, Excel et autres. 
-Le « ; » est utilisé comme séparateur de colonnes.
+I02. Import Depuis des fichiers vers une BD gÃ©rÃ©e par un SGBD (Import/Chargement)
+Importer/Chargez toutes les tables de la BD Ã  partir de fichiers de diffÃ©rents types tels que CSV, Excel et autres. 
+Le Â« ; Â» est utilisÃ© comme sÃ©parateur de colonnes.
 */
 
--- ????????????      FB FB FB FB FB FB A compléter ??????????????
+-- ????????????      FB FB FB FB FB FB A complÃ©ter ??????????????
 -- ====>>> Vos fichiers sql devront s'appeler : Bxy-NomDuFichier.sql
 -- ====>>> Le fichier sql, des requetes ci-dessus, s'appelle : Bxy-G1requetes.sql
 
 -- QUELQUES REPONSES ET RESULTATS POUR DEMARRER ============================
--- Manipulations-Interrogations des données ================================
+-- Manipulations-Interrogations des donnÃ©es ================================
 -- en SQL 2 ================================================================
--- Requêtes dans les tables ================================================
+-- RequÃªtes dans les tables ================================================
 
 PROMPT =========================================================
 PROMPT FB-B : Requetes sur la bd EN SQL 2
@@ -1030,12 +1029,12 @@ PROMPT =========================================================
 PROMPT
 
 PROMPT =========================================================
-PROMPT >> Requete : Les Noms des clients (Avec éventuellement des doublons)
+PROMPT >> Requete : Les Noms des clients (Avec Ã©ventuellement des doublons)
 PROMPT =========================================================
 PROMPT
 SELECT NOMCLI FROM CLIENTS ;
 
--- >>>>>>>>>>>>>>>>>>>>>>>>>> -- Résultat généré:
+-- >>>>>>>>>>>>>>>>>>>>>>>>>> -- RÃ©sultat gÃ©nÃ©rÃ©:
 -- ??? 
 PROMPT
 pause Tapez sur Enter...
@@ -1047,20 +1046,20 @@ PROMPT =========================================================
 PROMPT
 SELECT DISTINCT NOMCLI FROM CLIENTS ;
 
--- >>>>>>>>>>>>>>>>>>>>>>>>>> -- Résultat généré:
+-- >>>>>>>>>>>>>>>>>>>>>>>>>> -- RÃ©sultat gÃ©nÃ©rÃ©:
 -- ??? 
 PROMPT
 pause Tapez sur Enter...
 PROMPT
 
--- Quelques règles de gestion afin d'homogénéiser et normaliser les données
--- La colonne NOMCLI n'est pas bien renseignée ni commentée NO COMMENT !
--- Les seules contraintes définies sur la colonne NOMCLI sont :
+-- Quelques rÃ¨gles de gestion afin d'homogÃ©nÃ©iser et normaliser les donnÃ©es
+-- La colonne NOMCLI n'est pas bien renseignÃ©e ni commentÃ©e NO COMMENT !
+-- Les seules contraintes dÃ©finies sur la colonne NOMCLI sont :
 -- Son type syntaxique >> NOMCLI VARCHAR2(20),
--- Son type/caratère obligatoire >> CONSTRAINT NN_CLIENTS_NOMCLI CHECK(NOMCLI IS NOT NULL),
+-- Son type/caratÃ¨re obligatoire >> CONSTRAINT NN_CLIENTS_NOMCLI CHECK(NOMCLI IS NOT NULL),
 -- Il faudrait par exemple ajouter :
 -- la majuscule >> CONSTRAINT CK_CLIENTS_NOMCLI	CHECK(NOMCLI = UPPER(NOMCLI)),
--- l'expression régulière qui permet de définir la règle alphabétique : 
+-- l'expression rÃ©guliÃ¨re qui permet de dÃ©finir la rÃ¨gle alphabÃ©tique : 
 
 PROMPT =========================================================
 PROMPT >> Requete : Les Noms des clients NON MAJUSCULEs !
@@ -1068,20 +1067,20 @@ PROMPT =========================================================
 PROMPT
 SELECT NOMCLI FROM CLIENTS WHERE NOMCLI <> UPPER(NOMCLI);
 
--- >>>>>>>>>>>>>>>>>>>>>>>>>> -- Résultat généré:
+-- >>>>>>>>>>>>>>>>>>>>>>>>>> -- RÃ©sultat gÃ©nÃ©rÃ©:
 -- ??? 
 PROMPT
 pause Tapez sur Enter...
 PROMPT
 
 PROMPT =========================================================
-PROMPT >> Requete : Les Noms des clients NON Alphabétiques !
+PROMPT >> Requete : Les Noms des clients NON AlphabÃ©tiques !
 PROMPT =========================================================
 PROMPT
 
 SELECT NOMCLI FROM CLIENTS WHERE NOT REGEXP_LIKE (NOMCLI,'^[A-Za-z ]');
 SELECT NOMCLI FROM CLIENTS WHERE NOT REGEXP_LIKE (NOMCLI,'[^[:alpha:] ]');
--- >>>>>>>>>>>>>>>>>>>>>>>>>> -- Résultat généré:
+-- >>>>>>>>>>>>>>>>>>>>>>>>>> -- RÃ©sultat gÃ©nÃ©rÃ©:
 
 PROMPT
 pause Tapez sur Enter...
@@ -1089,17 +1088,17 @@ PROMPT
 
 
 PROMPT =====================================================================
-PROMPT >> Requete : Articles commandés toujours en quantité > 5
+PROMPT >> Requete : Articles commandÃ©s toujours en quantitÃ© > 5
 PROMPT =====================================================================
 PROMPT
-TTITLE CENTER 'Requete: les articles toujours commandés en quantité superieure à 5' skip 1 -
+TTITLE CENTER 'Requete: les articles toujours commandÃ©s en quantitÃ© superieure Ã  5' skip 1 -
        LEFT   '=========================================================================' skip 0
 SELECT d.NUMCOM, a.REFART, a.NOMART
 FROM   ARTICLES a, DETAILCOM d
 WHERE  a.REFART = d.REFART
 AND    d.QTCOM > 5;
       
--- >>>>>>>>>>>>>>>>>>>>>>>>>> -- Résultat généré:
+-- >>>>>>>>>>>>>>>>>>>>>>>>>> -- RÃ©sultat gÃ©nÃ©rÃ©:
 
 
 PROMPT
@@ -1119,7 +1118,7 @@ AND	c.NUMCOM = d.NUMCOM
 AND	d.REFART = a.REFART
 AND	d.REMISE = 0;
 
--- >>>>>>>>>>>>>>>>>>>>>>>>>> -- Résultat généré:
+-- >>>>>>>>>>>>>>>>>>>>>>>>>> -- RÃ©sultat gÃ©nÃ©rÃ©:
  
 
 PROMPT
@@ -1165,7 +1164,7 @@ pause Tapez sur Enter...
 PROMPT
 
 PROMPT =========================================================
-PROMPT >> Requete : Chiffre d affaires par année
+PROMPT >> Requete : Chiffre d affaires par annÃ©e
 PROMPT =========================================================
 PROMPT
 
@@ -1200,7 +1199,7 @@ WHERE	d.NUMCOM  = k.NUMCOM
 AND	 	c.CODCLI = k.CODCLI
 GROUP BY c.PAYSCLI;
 
--- >>>>>>>>>>>>>>>>>>>>>>>>>> -- Résultat généré:
+-- >>>>>>>>>>>>>>>>>>>>>>>>>> -- RÃ©sultat gÃ©nÃ©rÃ©:
 
 PROMPT
 pause Tapez sur Enter...
@@ -1223,10 +1222,10 @@ PROMPT
 -- =================================================================
 
 PROMPT =====================================================================
-PROMPT >> Requete : Articles commandés par tous les parisiens
+PROMPT >> Requete : Articles commandÃ©s par tous les parisiens
 PROMPT =====================================================================
 PROMPT
-TTITLE CENTER 'Requete: les articles qui sont commandés par tous les parisiens' skip 1 -
+TTITLE CENTER 'Requete: les articles qui sont commandÃ©s par tous les parisiens' skip 1 -
        LEFT   '=========================================================================' skip 0
 SELECT	REFART, NOMART
 FROM	ARTICLES
@@ -1241,7 +1240,7 @@ WHERE	NOT EXISTS
 		 AND	DETAILCOM.REFART = ARTICLES.REFART
 		 AND	COMMANDES.CODCLI = CLIENTS.CODCLI));
 
--- >>>>>>>>>>>>>>>>>>>>>>>>>> -- Résultat généré:
+-- >>>>>>>>>>>>>>>>>>>>>>>>>> -- RÃ©sultat gÃ©nÃ©rÃ©:
 
 
 PROMPT
@@ -1289,7 +1288,7 @@ CREATE TABLE MAGASINS
 );
 
 PROMPT =====================================================================
-PROMPT Insertion des données de la bd GESCOMI EN SQL 2
+PROMPT Insertion des donnÃ©es de la bd GESCOMI EN SQL 2
 PROMPT =====================================================================
 PROMPT
 
@@ -1372,17 +1371,17 @@ PROMPT
 --====================================================================================
 --====================================================================================
 --====================================================================================
---==================== Modification de la structure des données ======================
+--==================== Modification de la structure des donnÃ©es ======================
 --====================================================================================
 --====================================================================================
 --====================================================================================
 -- Modifiez la structure de la table MAGASINS
 -- Ajoutez la colonne MAILMAG de type VARCHAR(30)
 
--- Développez une procédure CREERMAILMAG qui permet d Insérer les nouvelles données dans cette colonne
--- Le mail d un magasin (en minuscule) est composé de : 'bb' + NUMMAG + '@gmail.com'
+-- DÃ©veloppez une procÃ©dure CREERMAILMAG qui permet d InsÃ©rer les nouvelles donnÃ©es dans cette colonne
+-- Le mail d un magasin (en minuscule) est composÃ© de : 'bb' + NUMMAG + '@gmail.com'
 PROMPT =====================================================================
-PROMPT procedure CREERMAILMAG qui permet d Insérer les nouvelles données
+PROMPT procedure CREERMAILMAG qui permet d InsÃ©rer les nouvelles donnÃ©es
 PROMPT =====================================================================
 PROMPT
 CREATE OR REPLACE PROCEDURE CREERMAILMAG AS
@@ -1407,8 +1406,8 @@ PROMPT
 --======================================================================================
 --======================================================================================
 --======================================================================================
--- MFB FFF ++++++++ Déchargement des données des magasins dans un fichier au format CSV
--- MFB FFF ++++++++ Le séparateur est ;
+-- MFB FFF ++++++++ DÃ©chargement des donnÃ©es des magasins dans un fichier au format CSV
+-- MFB FFF ++++++++ Le sÃ©parateur est ;
 --======================================================================================
 
 SELECT 
@@ -1430,12 +1429,12 @@ FROM MAGASINS;
 -- MFB FFF +++++++++++++++++++   QUALITE DES DONNEES !! DATA QUALITY !!
 -- MFB FFF +++++++++++++++++++   NETTOYAGE DES DONNEES !! DATA CLEANING !!
 --======================================================================================
--- Qualité des données ::: Y-a-t-il des anomalies dans les données ? 
--- Quelles sont ces anomalies ? Comment les détecter et comment les corriger ?
+-- QualitÃ© des donnÃ©es ::: Y-a-t-il des anomalies dans les donnÃ©es ? 
+-- Quelles sont ces anomalies ? Comment les dÃ©tecter et comment les corriger ?
 --======================================================================================
 --======================================================================================
---==== Vérification de la validité (véracité) des données de l'entreprise BB ===========
---========== Donnée valide ? Donnée INVALIDE ===========================================
+--==== VÃ©rification de la validitÃ© (vÃ©racitÃ©) des donnÃ©es de l'entreprise BB ===========
+--========== DonnÃ©e valide ? DonnÃ©e INVALIDE ===========================================
 --======================================================================================
 --======================================================================================
 
@@ -1462,9 +1461,9 @@ FROM MAGASINS;
 	CONSTRAINT CK_CLIENTS_VILCLI		CHECK(VILCLI = UPPER(VILCLI)),
 	CONSTRAINT CK_CLIENTS_PAYSCLI		CHECK(PAYSCLI = UPPER(PAYSCLI))
 );*/
--- Vérifier toutes les informations relatives aux clients...
+-- VÃ©rifier toutes les informations relatives aux clients...
 
--- Afficher les clients pour lesquels on n'a pas de téléphone (Code, Nom, Tel)
+-- Afficher les clients pour lesquels on n'a pas de tÃ©lÃ©phone (Code, Nom, Tel)
 CREATE OR REPLACE VIEW CLISANSTEL (Code, Nom, Tel)
 AS SELECT CODCLI, NOMCLI, TELCLI FROM CLIENTS 
 WHERE TELCLI IS NULL OR NOT REGEXP_LIKE(TELCLI,'[^[:alpha:] ]');
@@ -1476,24 +1475,24 @@ SELECT * FROM CLISANSTEL;
 CREATE OR REPLACE VIEW CLIINVALIDMAIL (Code, Nom, Mail) AS SELECT CODCLI, NOMCLI, MAILCLI FROM CLIENTS WHERE MAILCLI IS NULL OR NOT REGEXP_LIKE (MAILCLI, '^[a-zA-Z0-9._%-]+@[a-zA-Z0-9._%-]+\.[a-zA-Z]{2,4}$');
 SELECT * FROM CLIINVALIDMAIL;
 
--- Afficher les clients pour lesquels les téléphones sont invalides (Code, Nom, Tel)
+-- Afficher les clients pour lesquels les tÃ©lÃ©phones sont invalides (Code, Nom, Tel)
 CREATE OR REPLACE VIEW CLIINVALIDTEL (Code, Nom, Tel)
 AS SELECT CODCLI, NOMCLI, TELCLI FROM CLIENTS  
 WHERE TELCLI IS NULL OR NOT REGEXP_LIKE(TELCLI,'^(0|(\+33|0033)|(\+21|00216)|(\+32|0032))[1-9][0-9]{8}') ;
 SELECT * FROM CLIINVALIDTEL;
 
--- Afficher les clients pour lesquels le nom ou le prénom n'est pas alphabétique (Code, Nom, Prénom)
+-- Afficher les clients pour lesquels le nom ou le prÃ©nom n'est pas alphabÃ©tique (Code, Nom, PrÃ©nom)
 -- ou que le nom n'est pas en MAJUSCULE
--- ou que le prénom n'est pas "Première lettre en Majuscule et le reste en minuscule
+-- ou que le prÃ©nom n'est pas "PremiÃ¨re lettre en Majuscule et le reste en minuscule
 CREATE OR REPLACE VIEW CLIINVALIDNAME (Code, Nom, Prenom)
 AS SELECT CODCLI, NOMCLI, PRENCLI FROM CLIENTS 
 WHERE  REGEXP_LIKE(NOMCLI,'[^[:alpha:] ]')OR  REGEXP_LIKE(PRENCLI,'[^[:alpha:] ]') OR NOMCLI <> UPPER(NOMCLI)OR NOMCLI<> UPPER(LEFT(NOMCLI,1))+LOWER(SUBSTRING(NOMCLI,2)));
 SELECT * FROM CLIINVALIDNAME;
 --====================================================================================
 --====================================================================================
--- Développer le mécanisme (procédure et/ou fonction) qui le fait avec comme paramètres par exemple :
--- les noms de la table et de la colonne à vérifier moyennant une EXPRESSION REGULIERE ou autre
--- Créer une table pour stocker les expressions régulières par catégorie sémantique de données
+-- DÃ©velopper le mÃ©canisme (procÃ©dure et/ou fonction) qui le fait avec comme paramÃ¨tres par exemple :
+-- les noms de la table et de la colonne Ã  vÃ©rifier moyennant une EXPRESSION REGULIERE ou autre
+-- CrÃ©er une table pour stocker les expressions rÃ©guliÃ¨res par catÃ©gorie sÃ©mantique de donnÃ©es
 --====================================================================================
 --====================================================================================
 CREATE TABLE METAREGULAREXPRESS
@@ -1504,8 +1503,8 @@ CONSTRAINT PK_METAREGULAREXPRESS		PRIMARY KEY(CATEGORY),
 CONSTRAINT CK_METAREGULAREXPRESS_CATEGORY	CHECK(CATEGORY = UPPER(CATEGORY)
 );
 
--- Des catégories sémantiques de données définies avec des expressions régulières
--- Le nombre de valeurs clés est infini
+-- Des catÃ©gories sÃ©mantiques de donnÃ©es dÃ©finies avec des expressions rÃ©guliÃ¨res
+-- Le nombre de valeurs clÃ©s est infini
 INSERT INTO REGULAREXPRES VALUES
 ('MAIL', '^[a-zA-Z0-9._%-]+@[a-zA-Z0-9._%-]+\.[a-zA-Z]{2,4}$');
 INSERT INTO REGULAREXPRES VALUES
@@ -1551,31 +1550,31 @@ INSERT INTO REGULAREXPRES VALUES
 INSERT INTO REGULAREXPRES VALUES
 ('CIVILITE', '^(Madame|Monsieur|Mademoiselle)$');
 
--- Des catégories sémantiques de données définies avec des expressions régulières
--- Le nombre de valeurs (ou mots) clés est fini
--- La civilité (CIVILITY) est définie par exemple par : 
+-- Des catÃ©gories sÃ©mantiques de donnÃ©es dÃ©finies avec des expressions rÃ©guliÃ¨res
+-- Le nombre de valeurs (ou mots) clÃ©s est fini
+-- La civilitÃ© (CIVILITY) est dÃ©finie par exemple par : 
 /*
 Madame, MADAME, MAdame, Mme, MME... Mademoiselle, MADEMOISELLE, MADEMoiselle, Mlle...
 Madam, MADAM, MaDAm, Mrs, MRS, Miss, MISS...
 Monsieur, MONSIEUR, M., ...
 Sir, SIR, Mr., M.,...
 */
--- Le sexe (SEX) est défini par exemple par : 
+-- Le sexe (SEX) est dÃ©fini par exemple par : 
 /*
 Femme, FEMME, Femelle, F
 Woman, Wife, Female, F
 Homme, HOMME, Male, MALe, M, H
 MAN, Man, Male, MALe, M
 */
--- Le groupe sanguin (BLOODGROUP) est définie par les seules valeurs MAJUSCULES 
--- fondées sur les systèmes ABO et Rhésus : 
+-- Le groupe sanguin (BLOODGROUP) est dÃ©finie par les seules valeurs MAJUSCULES 
+-- fondÃ©es sur les systÃ¨mes ABO et RhÃ©sus : 
 /*
 A+, A-, B+, B-, AB+, AB-, O+ et O-
 */
 
 COMMIT;
 
--- Créeer une fonction qui permet de dire si une valeur vérifie une expression régulière
+-- CrÃ©eer une fonction qui permet de dire si une valeur vÃ©rifie une expression rÃ©guliÃ¨re
 -- CREATE OR REPLACE FUNCTION VerifRegExpr (...Valeur ...CategExpReg) renvoie Vrai ou Faux
 
 CREATE OR REPLACE PROCEDURE TESTREG(TAB IN VARCHAR, COL IN VARCHAR) IS
@@ -1626,11 +1625,11 @@ EXEC TESTREG('CLIENTS','MAILCLI');
 --==================== TRAITEMENT DE CERTAINES ANOMALIES ===============================
 --==================== INTRA-COLONNE et INTER-COLONNES (DF) ============================
 /*
-Entre parenthèses hihi haha FFF ! (...)
+Entre parenthÃ¨ses hihi haha FFF ! (...)
 
-Etant donné la table VILPAYS suivante :
+Etant donnÃ© la table VILPAYS suivante :
 Elle est issue des tables de la BD GesComI... 
-Faire les requêtes ci-dessous : 
+Faire les requÃªtes ci-dessous : 
 Calculs dans la table VILPAYS !
 */
 
@@ -1725,7 +1724,7 @@ INSERT INTO VILPAYS VALUES ('Alger', 'ALGERIE');
 INSERT INTO VILPAYS VALUES ('ALGER', 'ALGER');
 INSERT INTO VILPAYS VALUES ('CAIRO', 'Egypt');
 INSERT INTO VILPAYS VALUES ('Marrakech', 'Marroc');
-INSERT INTO VILPAYS VALUES ('Fès', 'Maroc');
+INSERT INTO VILPAYS VALUES ('FÃ¨s', 'Maroc');
 INSERT INTO VILPAYS VALUES ('Rabat', 'Marok');
 INSERT INTO VILPAYS VALUES ('Rabat', 'Maroc');
 INSERT INTO VILPAYS VALUES ('Rabat', 'Maroc');
@@ -1773,14 +1772,14 @@ SELECT COUNT(COL1) AS NBVILLES, COUNT(COL2) AS NBPAYS FROM VILPAYS;
 REM Calcul du nombre de villes et du nombre de pays
 SELECT COUNT(DISTINCT COL1) AS NBVILLES, COUNT(DISTINCT COL2) AS NBPAYS FROM VILPAYS;
 
-REM Compter le nombre d occurrences par valeur de COL1 et valeur de COL2 afin de détecter d éventuelles anomalies
+REM Compter le nombre d occurrences par valeur de COL1 et valeur de COL2 afin de dÃ©tecter d Ã©ventuelles anomalies
 CREATE OR REPLACE VIEW V1 (VILLE, NOMBRE) SELECT COL1, COUNT(*) FROM VILPAYS GROUP BY COL1 ORDER BY 1;
 SELECT * FROM V1;
 CREATE OR REPLACE VIEW V2 (PAYS, NOMBRE) SELECT COL2, COUNT(*) FROM VILPAYS GROUP BY COL2 ORDER BY 1;
 SELECT * FROM V2;
 
-REM On considère que la valeur la plus fréquente (pour chaque groupe de valeurs similaires) est la chaine de caractères valide
-REM Développez le processus qui permet de détecter les anomalies et éventuellement les corriger
+REM On considÃ¨re que la valeur la plus frÃ©quente (pour chaque groupe de valeurs similaires) est la chaine de caractÃ¨res valide
+REM DÃ©veloppez le processus qui permet de dÃ©tecter les anomalies et Ã©ventuellement les corriger
 
 
 --======================================================================================
@@ -1792,18 +1791,18 @@ REM Développez le processus qui permet de détecter les anomalies et éventuelleme
 --==================== TRAITEMENT DE CERTAINES ANOMALIES ===============================
 --==================== INTER-LIGNES ====================================================
 /*
-Entre parenthèses hihi haha FFF ! (...)
+Entre parenthÃ¨ses hihi haha FFF ! (...)
 
-Etant donné la table TABCLI suivante :
+Etant donnÃ© la table TABCLI suivante :
 Elle est issue des tables de la BD GesComI... 
-Faire les requêtes ci-dessous : 
+Faire les requÃªtes ci-dessous : 
 Eliminer les doubles et les similaires !
 */
 
 CREATE TABLE TABCLI (COL1 VARCHAR(10), COL2 VARCHAR(12), COL3 VARCHAR(10), COL4 VARCHAR(10), COL1 VARCHAR(1));
 INSERT INTO TABCLI VALUES ('2994570', 'Madame', 'RAHMA', 'CLEMENCE', '3');
 INSERT INTO TABCLI VALUES ('2996100', 'Monsieur', 'CLEMENCE', 'ALEXANDRE', '1');
-INSERT INTO TABCLI VALUES ('3000107', 'MO NSIEUR', 'ONRI', 'PANDA', '2');
+INSERT INTO TABCLI VALUES ('3000107', 'MOÂ NSIEUR', 'ONRI', 'PANDA', '2');
 INSERT INTO TABCLI VALUES ('2997777', 'Mademoiselle', 'LE BON', 'CLEMENTINE', '1');
 INSERT INTO TABCLI VALUES ('299PPPP', 'Mlle', 'BON', 'CLEMENTINE', '1');
 INSERT INTO TABCLI VALUES ('2997007', 'Monsieur', 'TRAIFOR', 'ADAM', '2');
@@ -1830,7 +1829,7 @@ INSERT INTO TABCLI VALUES ('3001777', 'Monsieur', 'LE BON', 'Adam', '1');
 INSERT INTO TABCLI VALUES ('3001777', 'Monsieur', 'LE BON', 'Adam', '1');
 INSERT INTO TABCLI VALUES ('3001777', 'Monsieur', 'LE BON', 'Adam', '');
 INSERT INTO TABCLI VALUES ('3001777', 'Monsieur', 'LE BON', 'Adam', '1');
-INSERT INTO TABCLI VALUES ('3001777', 'Monsieùr', 'LE BON', 'Adam', '1');
+INSERT INTO TABCLI VALUES ('3001777', 'MonsieÃ¹r', 'LE BON', 'Adam', '1');
 INSERT INTO TABCLI VALUES ('2994570', 'Madame', 'RAHMA', 'CLEMENCE', '3');
 INSERT INTO TABCLI VALUES ('2994570', 'Madame', 'RAHMA', 'CLEMENCE', '3');
 INSERT INTO TABCLI VALUES ('2994570', 'Madame', 'RAHMA', 'CLEMENSE', '3');
@@ -1949,24 +1948,24 @@ DELETE FROM TABCLI
 --==================== TRAITEMENT DE CERTAINES ANOMALIES ===============================
 --==================== DES CONTRAINTES DEFINIES PAR L UTILSATEUR =======================
 
--- Développez une procédure PL/SQL qui permet de vérifier la cohérence de la BD : 
--- Vérifiez si toutes les commandes portent au moins sur un article 
+-- DÃ©veloppez une procÃ©dure PL/SQL qui permet de vÃ©rifier la cohÃ©rence de la BD : 
+-- VÃ©rifiez si toutes les commandes portent au moins sur un article 
 -- Affichez celles qui sont donc vides !
 
 PROMPT =====================================================================
-PROMPT >> Requete : Procedure PL/SQL => vérification cohérence de la BD
+PROMPT >> Requete : Procedure PL/SQL => vÃ©rification cohÃ©rence de la BD
 PROMPT =====================================================================
 PROMPT
 REM Verifier si toutes les commandes portent au moins sur un article et
 REM afficher celles qui sont donc vides!
 
-TTITLE CENTER 'Verification de la cohérence de la base de données' skip 1 -
+TTITLE CENTER 'Verification de la cohÃ©rence de la base de donnÃ©es' skip 1 -
        LEFT   '=========================================================================' skip 0
 
 SET SERVEROUTPUT ON;
 
 PROMPT =====================================================================
-PROMPT Suppression et création de la procédure COHERENCE_BD
+PROMPT Suppression et crÃ©ation de la procÃ©dure COHERENCE_BD
 PROMPT =====================================================================
 PROMPT
 DROP PROCEDURE COHERENCE_BD;
@@ -1977,7 +1976,7 @@ CREATE OR REPLACE PROCEDURE COHERENCE_BD IS
 	MINUS (SELECT NUMCOM FROM DETAILCOM);
 
 BEGIN
-	DBMS_OUTPUT.PUT_LINE('Le(s) numéro(s) de commande vide(s) sont :');
+	DBMS_OUTPUT.PUT_LINE('Le(s) numÃ©ro(s) de commande vide(s) sont :');
 	FOR i IN curseur LOOP
 		DBMS_OUTPUT.PUT_LINE('-  ' || i.NUMCOM);
 	END LOOP;
@@ -1989,12 +1988,12 @@ pause Tapez sur Enter...
 PROMPT
 
 PROMPT =====================================================================
-PROMPT Execution de la procédure COHERENCE_BD
+PROMPT Execution de la procÃ©dure COHERENCE_BD
 PROMPT =====================================================================
 PROMPT
 EXECUTE COHERENCE_BD;
 
--- >>>>>>>>>>>>>>>>>>>>>>>>>> -- Résultat généré:
+-- >>>>>>>>>>>>>>>>>>>>>>>>>> -- RÃ©sultat gÃ©nÃ©rÃ©:
 
 PROMPT
 pause Tapez sur Enter...
@@ -2003,11 +2002,11 @@ PROMPT
 --====================================================================================
 --====================================================================================
 --====================================================================================
---==================== Modification de la structure des données ======================
+--==================== Modification de la structure des donnÃ©es ======================
 --========================== Diagnostiquer les anomalies =============================
 --====================================================================================
 --====================================================================================
--- Ajoutez 4 colonnes à la table CLIENTS afin de diagnostiquer les éventuelles anomalies
+-- Ajoutez 4 colonnes Ã  la table CLIENTS afin de diagnostiquer les Ã©ventuelles anomalies
 -- ANOMALIES de type VARCHAR(20), VALIDCOL NUMBER(2), INVALIDCOL NUMBER(2), NULLCOL NUMBER(2)
 CREATE TABLE DIAGNOSTICDATA 
 (ANOMALIES VARCHAR(20), VALIDCOL NUMBER(2), INVALIDCOL NUMBER(2), NULLCOL NUMBER(2));
@@ -2024,23 +2023,23 @@ CREATE TABLE DIAGNOCLIENTS
 AS SELECT * FROM CLIENTS, DIAGNOSTICDATA;
 SELECT * FROM DIAGNOCLIENTS;
 
--- Développez le mécanisme VERIFYDATACLI qui permet de faire : 
+-- DÃ©veloppez le mÃ©canisme VERIFYDATACLI qui permet de faire : 
 -- Pour chaque ligne de la table
--- Vérifier la validité de chaque colonne
--- ErrorIndicator = ''  -- ErrorIndicator est une chaine vide au départ
+-- VÃ©rifier la validitÃ© de chaque colonne
+-- ErrorIndicator = ''  -- ErrorIndicator est une chaine vide au dÃ©part
 -- NbreT = 0    NbrF = 0 NbrN = 0
--- Si la donnée est valide alors ErrorIndicator = ErrorIndicator || 'T' et NbrT = NbrT + 1
--- Si la donnée est INvalide alors ErrorIndicator = ErrorIndicator || 'F' et NbrF = NbrF + 1
--- Si la donnée est vide alors ErrorIndicator = ErrorIndicator || 'N' et NbrN = NbrN + 1
--- Insérer à la fin de chaque ligne la valeur ErrorIndicator dans la colonne ANOMALIES
+-- Si la donnÃ©e est valide alors ErrorIndicator = ErrorIndicator || 'T' et NbrT = NbrT + 1
+-- Si la donnÃ©e est INvalide alors ErrorIndicator = ErrorIndicator || 'F' et NbrF = NbrF + 1
+-- Si la donnÃ©e est vide alors ErrorIndicator = ErrorIndicator || 'N' et NbrN = NbrN + 1
+-- InsÃ©rer Ã  la fin de chaque ligne la valeur ErrorIndicator dans la colonne ANOMALIES
 -- ErrorIndicator permet de diagnostiquer le contenu d une ligne entiere
--- Insérer à la fin de chaque ligne le nombre de valeurs valides (nombre de T)
--- Insérer à la fin de chaque ligne le nombre de valeurs invalides (nombre de F)
--- Insérer à la fin de chaque ligne le nombre de valeurs nulles (nombre de N)
+-- InsÃ©rer Ã  la fin de chaque ligne le nombre de valeurs valides (nombre de T)
+-- InsÃ©rer Ã  la fin de chaque ligne le nombre de valeurs invalides (nombre de F)
+-- InsÃ©rer Ã  la fin de chaque ligne le nombre de valeurs nulles (nombre de N)
 -- La colonne ANOMALIES et les 3 autres colonnes permettent de diagnostiquer le contenu de la table entiere
 
--- Filtrez (découpez) la table en plusieurs parties :
--- Les données VALIDES, les "WARNING" et les "INVALIDES"
+-- Filtrez (dÃ©coupez) la table en plusieurs parties :
+-- Les donnÃ©es VALIDES, les "WARNING" et les "INVALIDES"
 -- Affichez les lignes INVALIDES avec messages d'erreur
 
 -- Proposez des corrections...
