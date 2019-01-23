@@ -1,19 +1,19 @@
 -- ===============================================================================
--------- UniversitÈ Sorbonne Paris CitÈ, UniversitÈ Paris 13 , Institut GaliÈe
--------- Master 2, Informatique, Exploration Informatique des DonnÈes et DÈcisionnel
+-------- Universit√© Sorbonne Paris Cit√©, Universit√© Paris 13 , Institut Gali√©e
+-------- Master 2, Informatique, Exploration Informatique des Donn√©es et D√©cisionnel
 -------- M2 EID2
 
 -- ===============================================================================
 -------- La Data ; The Data
--------- La DonnÈe est le monde du futur ; Les donnÈes et le monde de l'avenir
+-------- La Donn√©e est le monde du futur ; Les donn√©es et le monde de l'avenir
 -------- The Data is the world of the future ;  The Data and the future's world
 
 -------- DATA -->>> Big Data, Dark Data, Open Data, ... 
 -- ===============================================================================
--------- Bases de DonnÈes AvancÈes = Advanced Databases (BDA)
--------- EntrepÙts de DonnÈes = Data Warehouses (DWH, EDON)
+-------- Bases de Donn√©es Avanc√©es = Advanced Databases (BDA)
+-------- Entrep√¥ts de Donn√©es = Data Warehouses (DWH, EDON)
 
--------- Directeur :  Dr. M. Faouzi BoufarËs
+-------- Directeur :  Dr. M. Faouzi Boufar√®s
 -------- Enseignant-Chercheur Responsable      
 
 -------- Page Web : http://www.lipn.univ-paris13.fr/~boufares
@@ -22,20 +22,20 @@
 
 -- ===============================================================================
 -- ===============================================================================
---   Projet  BDM : Big Data Management - Gestion des DonnÈes Massives
+--   Projet  BDM : Big Data Management - Gestion des Donn√©es Massives
 --
---   Data Manipulation (DI) - Manipulation de DonnÈes
---   Data Integration (DI) - IntÈgration de DonnÈes
---   DonnÈes structurÈes ; DonnÈes Semi-structurÈes ; DonnÈes NON structurÈes
+--   Data Manipulation (DI) - Manipulation de Donn√©es
+--   Data Integration (DI) - Int√©gration de Donn√©es
+--   Donn√©es structur√©es ; Donn√©es Semi-structur√©es ; Donn√©es NON structur√©es
 --   Structured data; Semi-structured data; NON-structured data
 
---   Master Data Management (MDM) - Gestion des DonnÈes de RÈfÈrence
---   Data Quality Managment (DQM) - Gestion de la qualitÈ des donnÈes
---   Data Cleaning - Nettayage des donnÈes
+--   Master Data Management (MDM) - Gestion des Donn√©es de R√©f√©rence
+--   Data Quality Managment (DQM) - Gestion de la qualit√© des donn√©es
+--   Data Cleaning - Nettayage des donn√©es
 --   Data deduplication - Elimination des doubles et des similaires
 
 --   More semantics to better correct the data 
---   Plus de sÈmantique afin de mieux corriger les donnÈes
+--   Plus de s√©mantique afin de mieux corriger les donn√©es
 -- ===============================================================================
 -- ===============================================================================
 --
@@ -43,21 +43,21 @@
 --
 -- Big Data & Clound Computing : Think DIFFERENTLY, BIGGER and SMARTER !
 -- The Excellence in Data Use !
--- EID : L'Excellence dans l'Investigation des DonnÈes
+-- EID : L'Excellence dans l'Investigation des Donn√©es
 -- EID : Excellence in Data Investigation
 --
 -- =============================================================================== 
 -- Think DIFFERENTLY, BIGGER and SMARTER ! The Excellence in Data Use !
 -- MISSION IMPOSSIBLE OU POSSIBLE ????? !!!!!!!!!!!
--- Votre mission, si vous líacceptez, est : The Excellence in Data Use !
--- Si vous Èchouez, nous nierons avoir eu connaissance de vos agissements !
+-- Votre mission, si vous l‚Äôacceptez, est : The Excellence in Data Use !
+-- Si vous √©chouez, nous nierons avoir eu connaissance de vos agissements !
 
 -- ===============================================================================
 -- Les dictons du jour !
 --
--- Aujourd'hui, j'arrÍte de fumer
+-- Aujourd'hui, j'arr√™te de fumer
 -- Le TABAC t'ABAT
--- Fumer nuit gr‚vement ‡ ta santÈ et ‡ celle de ton entourage
+-- Fumer nuit gr√¢vement √† ta sant√© et √† celle de ton entourage
 --
 -- M   T   Dents
 -- SMILE and the World SMILES with you !
@@ -65,13 +65,13 @@
 -- MANGER + MANGER = GROSSIR (??? M, A, N, G, E, R, O, S, S, I)
 --
 -- Manger & Bouger, 
--- Pour votre santÈ mangez 5 fruits et lÈgumes par jour
--- Pour votre santÈ ne mangez pas trop gras, trop salÈ, trop sucrÈ
--- Pour votre santÈ faites une activitÈ physique rÈguliËre
--- Pour votre santÈ faites 30 mn de marche par jour
--- Pour votre santÈ faites des BD !!!
+-- Pour votre sant√© mangez 5 fruits et l√©gumes par jour
+-- Pour votre sant√© ne mangez pas trop gras, trop sal√©, trop sucr√©
+-- Pour votre sant√© faites une activit√© physique r√©guli√®re
+-- Pour votre sant√© faites 30 mn de marche par jour
+-- Pour votre sant√© faites des BD !!!
 --
--- Dr. M. Faouzi BoufarËs
+-- Dr. M. Faouzi Boufar√®s
 -- =============================================================================== 
 -- =============================================================================== 
 --   A new ETL   ETL & DQ : Extract-Transform-Load & Data-Quality 
@@ -84,15 +84,15 @@
 -- ===============================================================================                   
 --   Nom du SGBD/DBMS  : ORACLE  /  DB2  /  MySQL  /  ...        
 --   Date de creation  : 17/09/2018
----  Lieu              : UniversitÈ Sorbonne Paris CitÈ, UniversitÈ Paris 13, Institut GaliÈe
+---  Lieu              : Universit√© Sorbonne Paris Cit√©, Universit√© Paris 13, Institut Gali√©e
 -- =============================================================================== 
 -- ===============================================================================
 -------------------- Master 2 EID2 - Promotion 2018-2019 -------------------------
 
--- Groupe de Travail N∞ (BinÙme)  : Bxy
+-- Groupe de Travail N¬∞ (Bin√¥me)  : Bxy
 
--- NOM PrÈnom 1                   : np1
--- NOM PrÈnom 2                   : np2
+-- NOM Pr√©nom 1                   : Rouad ZEGGANE
+
 
 -- ====>>> Vos fichiers sql devront s'appeler : Bxy-GCI-04.sql
 
@@ -100,17 +100,17 @@
 -- =============================================================================== 
 -- ===============================================================================
 -- ===============================================================================
---   ProblÈmatique    :  IntÈgration de donnÈes hÈtÈrogËnes, distribuÈes
+--   Probl√©matique    :  Int√©gration de donn√©es h√©t√©rog√®nes, distribu√©es
 
---   ProblÈmatique    :  Traitement des anomalies Èventuelles
---   ProblÈmatique    :  Plusieurs types d'anomalies INTRA-Colonne ; INTER-COLONNES ; INTER-LIGNES
+--   Probl√©matique    :  Traitement des anomalies √©ventuelles
+--   Probl√©matique    :  Plusieurs types d'anomalies INTRA-Colonne ; INTER-COLONNES ; INTER-LIGNES
 
---   ProblÈmatique    :  Standardisation de donnÈes hÈtÈrogËnes
---   ProblÈmatique    :  Traitement des valeurs invalides syntaxiquement
---   ProblÈmatique    :  Traitement des valeurs invalides sÈmantiquement
---   ProblÈmatique    :  Traitement des valeurs nulles
---   ProblÈmatique    :  Traitement des redondances sÈmantiques (DÈpendances fonctionnelles)
---   ProblÈmatique    :  Elimination des doubles et similaires
+--   Probl√©matique    :  Standardisation de donn√©es h√©t√©rog√®nes
+--   Probl√©matique    :  Traitement des valeurs invalides syntaxiquement
+--   Probl√©matique    :  Traitement des valeurs invalides s√©mantiquement
+--   Probl√©matique    :  Traitement des valeurs nulles
+--   Probl√©matique    :  Traitement des redondances s√©mantiques (D√©pendances fonctionnelles)
+--   Probl√©matique    :  Elimination des doubles et similaires
 
 -- =============================================================================== 
 -- ===============================================================================
@@ -134,17 +134,17 @@
 PROMPT =========================================================
 -- Nom du Cas       :  Gestion Commerciale Intelligente : GESCOMI : GCI
 -- Nom de SGBD      :  ORACLE DBMS                    
--- Date de crÈation :  Septembre 2018
+-- Date de cr√©ation :  Septembre 2018
 -- Auteur           :  Faouzi BOUFARES 
--- UniversitÈ       :  UniversitÈ Sorbonne Paris CitÈ, UniversitÈ Paris 13 
+-- Universit√©       :  Universit√© Sorbonne Paris Cit√©, Universit√© Paris 13 
 -- Formation        :  Master 2 EID 2  
 PROMPT =========================================================
 
 
 -- ===============================================================================
--- DÈfinition de la structure des donnÈes ================= DEBUT    =============
+-- D√©finition de la structure des donn√©es ================= DEBUT    =============
 -- en SQL 2 ======================================================================
--- CrÈation des tables ============= Magasin FR01 ====== PARIS   =================
+-- Cr√©ation des tables ============= Magasin FR01 ====== PARIS   =================
 
 SPOOL GCI-04.lst
 
@@ -156,7 +156,7 @@ PROMPT
 PROMPT =========================================================
 PROMPT |                                                       |
 PROMPT |     Exercice 2 :  BD GESCOMI***DW avec SQL 2          |
-PROMPT |     Exercice 2 :  Le schÈma en Ètoile avec SQL 2      |
+PROMPT |     Exercice 2 :  Le sch√©ma en √©toile avec SQL 2      |
 PROMPT |                                                       |
 PROMPT =========================================================
 PROMPT
@@ -458,17 +458,17 @@ PROMPT
 
 
 -- ===============================================================================
--- DÈfinition de la structure des donnÈes =========== FIN     ====================
+-- D√©finition de la structure des donn√©es =========== FIN     ====================
 -- en SQL 2 ======================================================================
 
--- Insertion des donnÈes ===================================================
+-- Insertion des donn√©es ===================================================
 -- en SQL 2 ================================================================
 -- Insertion des lignes dans les tables ====================================
 
 
 
 PROMPT =====================================================================
-PROMPT Insertion des donnÈes de la bd GESCOMI EN SQL 2
+PROMPT Insertion des donn√©es de la bd GESCOMI EN SQL 2
 PROMPT =====================================================================
 PROMPT
 
@@ -526,16 +526,16 @@ COMMIT;
 
 PROMPT
 PROMPT =====================================================================
-PROMPT Insertion des donnÈes de la bd EN SQL 2 POUR UN MAGASIN donnÈ Le FR01 de Paris
+PROMPT Insertion des donn√©es de la bd EN SQL 2 POUR UN MAGASIN donn√© Le FR01 de Paris
 PROMPT =====================================================================
 PROMPT
 PROMPT =====================================================================
-PROMPT Insertion des donnÈes de la bd GESCOMI***DW EN SQL 2
+PROMPT Insertion des donn√©es de la bd GESCOMI***DW EN SQL 2
 PROMPT =====================================================================
 PROMPT
 
 PROMPT =====================================================================
-PROMPT >> Insertion des donnÈes de la Table : ARTICLES_DW2
+PROMPT >> Insertion des donn√©es de la Table : ARTICLES_DW2
 PROMPT =====================================================================
 PROMPT
 INSERT INTO ARTICLES_DW2 (NUMART, NOMART, PUART)
@@ -656,7 +656,7 @@ INSERT INTO TEMPS_DW2 (IDTEMPS, DATEHEURET, ANNEET, MOIST, JOURT)
 VALUES (6,  'MARDI 13-MARS-2001', 2001, 3, 13);
 
 INSERT INTO TEMPS_DW2 (IDTEMPS, DATEHEURET, ANNEET, MOIST, JOURT)
-VALUES (7,  'VENDREDI 14-FÈVRIER-2003', 2003, 02, 14);
+VALUES (7,  'VENDREDI 14-F√©VRIER-2003', 2003, 02, 14);
 
 INSERT INTO TEMPS_DW2 (IDTEMPS, DATEHEURET, ANNEET, MOIST, JOURT)
 VALUES (8,  'LUNDI 07-JANVIER-2002', 2002,1, 7);
@@ -842,7 +842,7 @@ PROMPT
 pause Tapez sur Enter...
 PROMPT
 
--- Donnez les vues du catalogue Oracle pour consulter la description de la table ´†VENTE†ª et de ses indexeS  
+-- Donnez les vues du catalogue Oracle pour consulter la description de la table ¬´¬†VENTE¬†¬ª et de ses indexeS  
 select * from dict where TABLE_NAME = '%USERS%';
 
 select view_name from sys.all_views where owner like 'AHCENE94';
@@ -859,10 +859,10 @@ PROMPT
 
 
 
--- Manipulations-Interrogations des donnÈes ================================
+-- Manipulations-Interrogations des donn√©es ================================
 -- en SQL 2 ================================================================
--- RequÍtes dans les tables ================================================
--- Vues et Vues MatÈrialisÈes ==============================================
+-- Requ√™tes dans les tables ================================================
+-- Vues et Vues Mat√©rialis√©es ==============================================
 
 --======================================================================================
 --======================================================================================
@@ -920,7 +920,7 @@ PROMPT
 SET TIMING ON;
 
 TTITLE CENTER 'Requete Q1: Total des ventes des MAGASINS_DW2 en France ou en Belgique,' skip 1 -
-       CENTER 'pour la periode de 2001 ‡ 2003, par ville et annee' skip 1 -
+       CENTER 'pour la periode de 2001 √† 2003, par ville et annee' skip 1 -
        LEFT   '=========================================================================' skip 0
 
 COLUMN ADRVILLEMAG	FORMAT A20
@@ -934,10 +934,10 @@ AND      (UPPER(MAGASINS_DW2.ADRPAYSMAG) = 'FRANCE'
 AND      TEMPS_DW2.ANNEET BETWEEN 2001 AND 2003
 GROUP BY ADRVILLEMAG, ANNEET;
 
--- >>>>>>>>>>>>>>>>>>>>>>>>>> -- RÈsultat gÈnÈrÈ:
+-- >>>>>>>>>>>>>>>>>>>>>>>>>> -- R√©sultat g√©n√©r√©:
 --
 --       Requete Q1: Total des ventes des MAGASINS_DW2 en France ou en Belgique,
---       pour la periode de 2001 ‡ 2003, par ville et annee
+--       pour la periode de 2001 √† 2003, par ville et annee
 -- =========================================================================
 -- ADRVILLEMAG              ANNEET    MONTANT
 -- -------------------- ---------- ----------
@@ -948,9 +948,9 @@ GROUP BY ADRVILLEMAG, ANNEET;
 -- EPINAY SUR SEINE           2001         22
 -- EPINAY SUR SEINE           2002      28,99
 -- 
--- 6 ligne(s) sÈlectionnÈe(s).
+-- 6 ligne(s) s√©lectionn√©e(s).
 -- 
--- EcoulÈ : 00 :00 :00.03
+-- Ecoul√© : 00 :00 :00.03
 -- __________________________________________________________________________
 
 PROMPT
@@ -958,7 +958,7 @@ pause Tapez sur Enter...
 PROMPT
 
 TTITLE CENTER 'Requete Q1Prim: Total des ventes des MAGASINS_DW2 en France ou en Belgique,' skip 1 -
-       center 'pour la periode de 2001 ‡ 2003, par ville et annee' skip 1 -
+       center 'pour la periode de 2001 √† 2003, par ville et annee' skip 1 -
        LEFT   '=========================================================================' skip 0
 
 COLUMN ADRVILLEMAG	FORMAT A20
@@ -984,10 +984,10 @@ UNION
 	AND      ANNEE    = 2001
 	GROUP BY ADRVILLEMAG, ANNEE;
 
--- >>>>>>>>>>>>>>>>>>>>>>>>>> -- RÈsultat gÈnÈrÈ:
+-- >>>>>>>>>>>>>>>>>>>>>>>>>> -- R√©sultat g√©n√©r√©:
 --
 --     Requete Q1Prim: Total des ventes des MAGASINS_DW2 en France ou en Belgique,
---       pour la periode de 2001 ‡ 2003, par ville et annee
+--       pour la periode de 2001 √† 2003, par ville et annee
 -- =========================================================================
 -- ADRVILLEMAG               ANNEE   MONTANT1
 -- -------------------- ---------- ----------
@@ -998,9 +998,9 @@ UNION
 -- EPINAY SUR SEINE           2002      28,99
 -- PARIS                      2001      46,54
 -- 
--- 6 ligne(s) sÈlectionnÈe(s).
+-- 6 ligne(s) s√©lectionn√©e(s).
 -- 
--- EcoulÈ : 00 :00 :00.04
+-- Ecoul√© : 00 :00 :00.04
 -- __________________________________________________________________________
 
 
