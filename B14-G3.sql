@@ -92,7 +92,6 @@
 -- Groupe de Travail N° (Binôme)  : B14
 
 -- NOM Prénom 1                   : ZEGGANE Rouad
--- NOM Prénom 2                   : MECHAREK Thinhinane
 
 -- ====>>> Vos fichiers sql devront s'appeler : Bxy-G03.sql
 
